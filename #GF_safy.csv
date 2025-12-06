@@ -136,7 +136,7 @@ talent_desc_2025_2,"While Dual-Wielding, +125% Weapon DMG, and there is a 50% ch
 talent_desc_2025_3,"While Dual-Wielding, +150% Weapon DMG without additional ammo consumption.",During Dual-Wield: +150% Weapon Damage.
 talent_desc_2026_1|talent_desc_5401_1,"When the remaining ammo in the magazine is 30% or less (or equal to 1), +40% weapon DMG.",While Under 30% Magazine (or Last Shot): +40% Weapon Damage.
 talent_desc_2026_2|talent_desc_5401_2,"When the remaining ammo in the magazine is 40% or less (or equal to 1), +80% weapon DMG.",While Under 40% Magazine (or Last Shot): +80% Weapon Damage.
-talent_desc_2026_3|talent_desc_5401_3,"When the remaining ammo in the magazine is 50% or less (or equal to 1), +120% weapon DMG.",While Under 50% Magazine (or Last Shot):  +120% weapon DMG.
+talent_desc_2026_3|talent_desc_5401_3,"When the remaining ammo in the magazine is 50% or less (or equal to 1), +120% weapon DMG.",While Under 50% Magazine (or Last Shot): +120% weapon DMG.
 talent_desc_2028_1|talent_desc_5402_1,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +50% for 6s",On Kill (Or Item Break): +50% Weapon Damage and +50% Explosion Damage for 6s
 talent_desc_2028_2|talent_desc_5402_2,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +75% for 6s",On Kill (Or Item Break): +75% Weapon Damage and +75% Explosion Damage for 6s
 talent_desc_2028_3|talent_desc_5402_3,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +100% for 20s",On Kill (Or Item Break): +100% Weapon Damage and +100% Explosion Damage for 20s
@@ -171,14 +171,14 @@ talent_desc_2038_3,"Explosive Grenade Base DMG +200%; there is a 60% chance of n
 talent_desc_2039_1,+20% explosion DMG; +5% DMG dealt for each enemy within the explosion range,+20% Explosion Damage; +5% Damage Dealt for each Enemy caught in an Explosion
 talent_desc_2039_2,+40% explosion DMG; +7% DMG dealt for each enemy within the explosion range,+40% Explosion Damage; +7% Damage Dealt for each Enemy caught in an Explosion
 talent_desc_2039_3,+60% explosion DMG; +9% DMG dealt and +9% chance to deal double DMG for each enemy within the explosion range,+60% Explosion Damage; +9% Damage Dealt and +9% chance to double Damage for each Enemy caught in an Explosion.
-talent_desc_2041_1,"During Dual-Wielding, gain +3% Weapon DMG and +1% lucky shot chance every 0.5s with continuous firing (up to 20 stacks). \nLose 5 stacks every 0.5s when not firing.","During Dual-Wielding, gain +3% Weapon DMG and +1% lucky shot chance every 0.5s with continuous firing (up to 20 stacks). \nLose 5 stacks every 0.5s when not firing."
-talent_desc_2042_1|talent_desc_5405_1,"-20% Reload Time, +30% Weapon DMG within 4s after reloading",-20% Reload Time; On Reload: +30% Weapon DMG for 4s.
-talent_desc_2042_2|talent_desc_5405_2,"-35% Reload Time, +60% Weapon DMG within 5s after reloading",-35% Reload Time: On Reload: +60% Weapon DMG for 5s
-talent_desc_2042_3|talent_desc_5405_3,"-50% Reload Time, +100% Weapon DMG within 6s after reloading",-50% Reload Time; On Reload: +100% Weapon DMG for 6s
-talent_desc_2043_1,Increase 30% Total DMG if grenades or explosive weapons deal DMG to only one enemy,When a Grenade or Explosive Weapon only hits one Enemy: +30% Total Explosive DMG
-talent_desc_2043_2,Increase 45% Total DMG if grenades or explosive weapons deal DMG to only one enemy,When a Grenade or Explosive Weapon only hits one Enemy: +45% Total Explosive DMG
-talent_desc_2043_3,Increase 60% Total DMG if grenades or explosive weapons deal DMG to 3 enemies or fewer,When a Grenade or Explosive Weapon only hits three Enemies or less: +60% Total Explosive DMG
-talent_desc_2044_1,Toss 2 grenades instead of 1 with no additional consumption.,Throw an extra Grenade
+talent_desc_2041_1,"During Dual-Wielding, gain +3% Weapon DMG and +1% lucky shot chance every 0.5s with continuous firing (up to 20 stacks). \nLose 5 stacks every 0.5s when not firing.",During Dual-Wield: Every 0.5s of constant Firing grants +3% Weapon Damage and +1% Lucky Shot Chance (Stacks 20x up to 60% Weapon Damage and 20% Lucky Shot Chance). \nLose 5 stacks every 0.5s without firing.
+talent_desc_2042_1|talent_desc_5405_1,"-20% Reload Time, +30% Weapon DMG within 4s after reloading",-20% Reload Time; On Reload: +30% Weapon Damage for 4s.
+talent_desc_2042_2|talent_desc_5405_2,"-35% Reload Time, +60% Weapon DMG within 5s after reloading",-35% Reload Time: On Reload: +60% Weapon Damage for 5s.
+talent_desc_2042_3|talent_desc_5405_3,"-50% Reload Time, +100% Weapon DMG within 6s after reloading",-50% Reload Time; On Reload: +100% Weapon Damage for 6s.
+talent_desc_2043_1,Increase 30% Total DMG if grenades or explosive weapons deal DMG to only one enemy,When a Grenade or Explosive Weapon only hits one Enemy: +30% Total Explosive Damage.
+talent_desc_2043_2,Increase 45% Total DMG if grenades or explosive weapons deal DMG to only one enemy,When a Grenade or Explosive Weapon only hits one Enemy: +45% Total Explosive Damage.
+talent_desc_2043_3,Increase 60% Total DMG if grenades or explosive weapons deal DMG to 3 enemies or fewer,When a Grenade or Explosive Weapon only hits three Enemies or less: +60% Total Explosive Damage.
+talent_desc_2044_1,Toss 2 grenades instead of 1 with no additional consumption.,Throw 2 Grenades instead of 1.
 talent_desc_2102_1,Energy Orb freezes enemies for 2 more seconds.,Energy Orb freezes enemies for 2 more seconds.
 talent_desc_2102_2,Energy Orb freezes enemies for 4 more seconds.,Energy Orb freezes enemies for 4 more seconds.
 talent_desc_2102_3,Energy Orb freezes enemies for 6 more seconds with -30% CD.,Energy Orb freezes enemies for 6 more seconds with -30% CD.
