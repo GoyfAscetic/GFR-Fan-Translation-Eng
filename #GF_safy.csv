@@ -184,15 +184,15 @@ talent_desc_2102_2,Energy Orb freezes enemies for 4 more seconds.,+4 seconds Ene
 talent_desc_2102_3,Energy Orb freezes enemies for 6 more seconds with -30% CD.,+6 seconds Energy Orb Freeze Duration; -30% Energy Orb Cooldown.
 talent_desc_2103_1,"Explosion radius for Energy Orb is increased by 2m, freeze effect and DMG will bypass barriers.",+2m Energy Orb Blast Radius; Energy Orb Freeze and Damage ignores barriers.
 talent_desc_2103_2,"Explosion radius for Energy Orb is increased by 4m, freeze effect and DMG will bypass barriers.",+4m Energy Orb Blast Radius; Energy Orb Freeze and Damage ignores barriers.
-talent_desc_2103_3,"Explosion radius for Energy Orb is increased by 6m, freeze effect and DMG will bypass barriers and DMG is increased by 50% for each target hit.",+6m Energy Orb Blast Radius; Energy Orb Freeze and Damage ignores barriers; +50% Energy Orb Damage for each Enemy caught in the Blast Radius.
+talent_desc_2103_3,"Explosion radius for Energy Orb is increased by 6m, freeze effect and DMG will bypass barriers and DMG is increased by 50% for each target hit.",+6m Energy Orb Blast Radius; Energy Orb Freeze and Damage ignores barriers; +50% Energy Orb Damage per Chained Enemy.
 talent_desc_2104_1,Energy Orb gains 1 more charge.,+1 Energy Orb charge.
 talent_desc_2104_2,Energy Orb gains 2 more charges.,+2 Energy Orb charges.
 talent_desc_2104_3,Energy Orb gains 5 more charges.,+5 Energy Orb charges.
-talent_desc_2105_1,Energy Orb deals +200% damage and has a 50% chance to explode twice.,+200% Energy Orb Damage; 50% chance for Energy Orb to explode twice.
-talent_desc_2205_2,Recover 100% of your Armor after hitting an enemy with Leap or 25% if you do not hit any targets,On Leap Hit: Heal 100% Armor; Otherwise: Heal 25% Armor  
-talent_desc_2106_1,"After casting Energy Orb, +300% weapon DMG on the next hit and deal 50% DMG to enemies adjacent to initial target.",After Energy Orb: Next hit deals +300% Weapon Damage to target and 50% Weapon Damage to near by enemies.
-talent_desc_2106_2,"After casting Energy Orb, +400% weapon DMG on the next hit and deal 75% DMG to enemies adjacent to initial target.",After Energy Orb: Next hit deals +400% Weapon Damage to target and 75% Weapon Damage to near by enemies.
-talent_desc_2106_3,"After casting Energy Orb, +500% weapon DMG on the next hit and deal 100% DMG to enemies adjacent to initial target.",After Energy Orb: Next hit deals +500% Weapon Damage to target and 100% Weapon Damage to near by enemies.
+talent_desc_2105_1,Energy Orb deals +200% damage and has a 50% chance to explode twice.,+200% Energy Orb Damage; 50% chance for Energy Orb to explode again.
+talent_desc_2205_2,Recover 100% of your Armor after hitting an enemy with Leap or 25% if you do not hit any targets,On Leap Hit: Heal 100% Armor; On Leap Miss: Heal 25% Armor  
+talent_desc_2106_1,"After casting Energy Orb, +300% weapon DMG on the next hit and deal 50% DMG to enemies adjacent to initial target.",After using Energy Orb: Next hit gains +300% Weapon Damage to target and 50% Weapon Damage to near by enemies.
+talent_desc_2106_2,"After casting Energy Orb, +400% weapon DMG on the next hit and deal 75% DMG to enemies adjacent to initial target.",After using Energy Orb: Next hit gains +400% Weapon Damage to target and 75% Weapon Damage to near by enemies.
+talent_desc_2106_3,"After casting Energy Orb, +500% weapon DMG on the next hit and deal 100% DMG to enemies adjacent to initial target.",After using Energy Orb: Next hit gains +500% Weapon Damage to target and 100% Weapon Damage to near by enemies.
 talent_desc_2109_1|talent_desc_5406_1,"After killing an enemy affected by any Elemental Effect, +40% RoF for 6s.","When an Enemy with an Elemental Debuff is killed, +40% Rate of Fire for 6s."
 talent_desc_2109_2|talent_desc_5406_2,"After killing an enemy affected by any Elemental Effect, +50% RoF for 6s.","When an Enemy with an Elemental Debuff is killed, +50% Rate of Fire for 6s."
 talent_desc_2109_3|talent_desc_5406_3,"After hitting an enemy affected by any Elemental Effect, +60% RoF for 6s.","When an Enemy with an Elemental Debuff is killed, +60% Rate of Fire for 6s."
@@ -201,28 +201,28 @@ talent_desc_2111_2|talent_desc_5407_2,+60% DMG to enemies affected by any Elemen
 talent_desc_2111_3|talent_desc_5407_3,+120% DMG to enemies affected by any Elemental Effect.,+120% Damage against Enemies with an Elemental Debuff.
 talent_desc_2113_1,Smoke Grenade capacity +4.,+4 Smoke Grenade Capacity.
 talent_desc_2113_2,Smoke Grenade capacity +8 .,+8 Smoke Grenade Capacity.
-talent_desc_2113_3,"Smoke Grenade capacity +12, recover 1 grenade for every 2 grenades used","+12 Smoke Grenade Capacity; When 2 Smoke Grenades are used, Recover 1 Smoke Grenade."
-talent_desc_2116_1,Enemies affected by your grenades will deal -40% DMG and take +20% DMG for 6s,Enemies affected by your grenades will deal -40% DMG and take +20% DMG for 6s
-talent_desc_2116_2,Enemies affected by your grenades will deal -50% DMG and take +40% DMG for 6s,Enemies affected by your grenades will deal -50% DMG and take +40% DMG for 6s
-talent_desc_2116_3,Enemies affected by your grenades will deal -60% DMG and take +60% DMG for 20s,Enemies affected by your grenades will deal -60% DMG and take +60% DMG for 20s
-talent_desc_2119_1,"After casting Energy Orb, +60% Shield recharge speed, -60% Shield recharge delay and the recharge cannot be interrupted for 6s.","After casting Energy Orb, +60% Shield recharge speed, -60% Shield recharge delay and the recharge cannot be interrupted for 6s."
-talent_desc_2120_1,"After throwing a Smoke Grenade, +30 max Shield for 6s.","After throwing a Smoke Grenade, +30 max Shield for 6s."
-talent_desc_2120_2,"After throwing a Smoke Grenade, +60 max Shield for 6s.","After throwing a Smoke Grenade, +60 max Shield for 6s."
-talent_desc_2120_3,"After using the Smoke Grenade, +90 max shield, and gain immunity to Elemental Effects for 20s.","After using the Smoke Grenade, +90 max shield, and gain immunity to Elemental Effects for 20s."
-talent_desc_2123_1,Energy Orb applies the same Elemental Effect as your weapon to all enemies it hits at a 100% chance.,Energy Orb applies the same Elemental Effect as your weapon to all enemies it hits at a 100% chance.
-talent_desc_2124_1,Smoke Grenades base DMG +300%,Smoke Grenades base DMG +300%
-talent_desc_2124_2,Smoke Grenades base DMG +400%,Smoke Grenades base DMG +400%
-talent_desc_2124_3,"Smoke Grenades base DMG +500%, and gain +100% base DMG per second after explosion.","Smoke Grenades base DMG +500%, and gain +100% base DMG per second after explosion."
-talent_desc_2125_1|talent_briefdesc_2125_1|talent_desc_3108_1|talent_briefdesc_3108_1|talent_desc_5408_1|talent_desc_5423_1|talent_briefdesc_5408_1|talent_briefdesc_5423_1,+40% Fire DMG,+40% Fire DMG
-talent_desc_2125_2|talent_briefdesc_2125_2|talent_desc_3108_2|talent_briefdesc_3108_2|talent_desc_5408_2|talent_desc_5423_2|talent_briefdesc_5408_2|talent_briefdesc_5423_2|s6diceability_desc_51313_3,+80% Fire DMG,+80% Fire DMG
-talent_desc_2125_3|talent_briefdesc_2125_3|talent_desc_5408_3|talent_briefdesc_5408_3,"+120% Fire DMG, and double the DMG caused by Burning Effect and Combustion Effect","+120% Fire DMG, and double the DMG caused by Burning Effect and Combustion Effect"
-talent_desc_2126_1|talent_briefdesc_2126_1|talent_desc_5409_1|talent_briefdesc_5409_1,+40% Lightning DMG,+40% Lightning DMG
-talent_desc_2126_2|talent_briefdesc_2126_2|talent_desc_5409_2|talent_briefdesc_5409_2|s6diceability_desc_51314_3,+80% Lightning DMG,+80% Lightning DMG
-talent_desc_2126_3|talent_desc_5409_3,+120% Lightning DMG and +120% Weapon DMG against enemies affected by Shock effect,+120% Lightning DMG and +120% Weapon DMG against enemies affected by Shock effect
-talent_desc_2127_1|talent_briefdesc_2127_1|talent_desc_3813_1|talent_briefdesc_3813_1,+40% Corrosion DMG,+40% Corrosion DMG
-talent_desc_2127_2|talent_briefdesc_2127_2|talent_desc_3813_2|talent_briefdesc_3813_2|s6diceability_desc_51315_3,+80% Corrosion DMG,+80% Corrosion DMG
-talent_desc_2127_3|talent_briefdesc_2127_3,"+120% Corrosion DMG, and a critical hit against an enemy will create a toxic cloud equivalent to a detonated smoke grenade (Each enemy triggers at most once every 3 seconds).","+120% Corrosion DMG, and a critical hit against an enemy will create a toxic cloud equivalent to a detonated smoke grenade (Each enemy triggers at most once every 3 seconds)."
-talent_desc_2129_1,Enemies affected by your grenades become volatile and will explode after being defeated.,Enemies affected by your grenades become volatile and will explode after being defeated.
+talent_desc_2113_3,"Smoke Grenade capacity +12, recover 1 grenade for every 2 grenades used",+12 Smoke Grenade Capacity; After using 2 Smoke Grenades: Gain 1 Smoke Grenade.
+talent_desc_2116_1,Enemies affected by your grenades will deal -40% DMG and take +20% DMG for 6s,When a Smoke Cloud Hits an Enemy: They deal -40% Damage and take +20% Damage for 6s.
+talent_desc_2116_2,Enemies affected by your grenades will deal -50% DMG and take +40% DMG for 6s,When a Smoke Cloud Hits an Enemy: They deal -50% Damage and take +40% Damage for 6s.
+talent_desc_2116_3,Enemies affected by your grenades will deal -60% DMG and take +60% DMG for 20s,When a Smoke Cloud Hits an Enemy: They deal -60% Damage and take +60% Damage for 20s.
+talent_desc_2119_1,"After casting Energy Orb, +60% Shield recharge speed, -60% Shield recharge delay and the recharge cannot be interrupted for 6s.","After using Energy Orb: +60% Shield Recharge Speed, -60% Shield Recharge Delay, and the Recharge can't be interrupted for 6s."
+talent_desc_2120_1,"After throwing a Smoke Grenade, +30 max Shield for 6s.",After using Smoke Grenade: +30 Shield Capacity for 6s.
+talent_desc_2120_2,"After throwing a Smoke Grenade, +60 max Shield for 6s.",After using Smoke Grenade: +60 Shield Capacity for 6s.
+talent_desc_2120_3,"After using the Smoke Grenade, +90 max shield, and gain immunity to Elemental Effects for 20s.",After using Smoke Grenade: +90 Shield Capacity and Elemental Debuff Immunity for 20s.
+talent_desc_2123_1,Energy Orb applies the same Elemental Effect as your weapon to all enemies it hits at a 100% chance.,Energy Orb Damage gains 100% chance to apply your Weapon's Elemental Debuff.
+talent_desc_2124_1,Smoke Grenades base DMG +300%,+300% Base Smoke Cloud Damage
+talent_desc_2124_2,Smoke Grenades base DMG +400%,+400% Base Smoke Cloud Damage
+talent_desc_2124_3,"Smoke Grenades base DMG +500%, and gain +100% base DMG per second after explosion.","+500% Base Smoke Cloud Damage, and +100% Base Smoke Cloud Damage every second the Cloud lasts."
+talent_desc_2125_1|talent_briefdesc_2125_1|talent_desc_3108_1|talent_briefdesc_3108_1|talent_desc_5408_1|talent_desc_5423_1|talent_briefdesc_5408_1|talent_briefdesc_5423_1,+40% Fire DMG,+40% Fire Damage
+talent_desc_2125_2|talent_briefdesc_2125_2|talent_desc_3108_2|talent_briefdesc_3108_2|talent_desc_5408_2|talent_desc_5423_2|talent_briefdesc_5408_2|talent_briefdesc_5423_2|s6diceability_desc_51313_3,+80% Fire DMG,+80% Fire Damage
+talent_desc_2125_3|talent_briefdesc_2125_3|talent_desc_5408_3|talent_briefdesc_5408_3,"+120% Fire DMG, and double the DMG caused by Burning Effect and Combustion Effect","+120% Fire Damage, Double Burning and Combustion Debuff Damage"
+talent_desc_2126_1|talent_briefdesc_2126_1|talent_desc_5409_1|talent_briefdesc_5409_1,+40% Lightning DMG,+40% Lightning Damage
+talent_desc_2126_2|talent_briefdesc_2126_2|talent_desc_5409_2|talent_briefdesc_5409_2|s6diceability_desc_51314_3,+80% Lightning DMG,+80% Lightning Damage
+talent_desc_2126_3|talent_desc_5409_3,+120% Lightning DMG and +120% Weapon DMG against enemies affected by Shock effect,+120% Lightning Damage; +120% Weapon Damage against Shocked Enemies.
+talent_desc_2127_1|talent_briefdesc_2127_1|talent_desc_3813_1|talent_briefdesc_3813_1,+40% Corrosion DMG,+40% Corrosion Damage
+talent_desc_2127_2|talent_briefdesc_2127_2|talent_desc_3813_2|talent_briefdesc_3813_2|s6diceability_desc_51315_3,+80% Corrosion DMG,+80% Corrosion Damage
+talent_desc_2127_3|talent_briefdesc_2127_3,"+120% Corrosion DMG, and a critical hit against an enemy will create a toxic cloud equivalent to a detonated smoke grenade (Each enemy triggers at most once every 3 seconds).","+120% Corrosion Damage; On Crit: Shot explodes, leaving a Smoke Cloud (3 Second Cooldown Per Enemy)."
+talent_desc_2129_1,Enemies affected by your grenades become volatile and will explode after being defeated.,On Smoke Cloud Kill: Enemy explodes
 talent_desc_2202_1,+200% Leap base DMG. The cooldown is reduced by 1s for every enemy defeated by it.,+200% Leap base DMG. The cooldown is reduced by 1s for every enemy defeated by it.
 talent_desc_2202_2,+400% Leap base DMG. The cooldown is reduced by 2s for every enemy defeated by it.,+400% Leap base DMG. The cooldown is reduced by 2s for every enemy defeated by it.
 talent_desc_2202_3,+600% Leap base DMG. The cooldown is reset if Leap kills an enemy.,+600% Leap base DMG. The cooldown is reset if Leap kills an enemy.
