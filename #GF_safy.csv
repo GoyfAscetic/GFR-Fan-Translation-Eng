@@ -13,12 +13,12 @@ inscription_desc_4812,30% chance to recover 50% ammo to the magazine when you ki
 inscription_desc_4815,There's a 25% chance to kill a normal enemy instantly on a crit hit.,On Crit: 25% chance to instantly Kill a Normal Enemy.
 inscription_desc_4816,"Piercing +1, Projectile Speed +100%.",+1 Projectile Pierce and +100% Projectile Speed.
 inscription_desc_4818,+80% Weapon DMG for the 2 shots after reloading.,On Reload: First 2 Shots gain +80% Weapon Damage.
-inscription_desc_4819,"+100% Magazine Capacity, +30% Reload Time",+100% Magazine Capacity and +30% Reload Time.
+inscription_desc_4819,"+100% Magazine Capacity, +30% Reload Time",+100% Magazine Capacity but +30% Reload Time.
 inscription_desc_4820,+65% total weapon DMG against enemies in Elemental Effect.,+65% Total Weapon Damage against Enemies with an Elemental Debuff.
 inscription_desc_4821,+100% Elemental Effect Chance of this weapon.,+100% Elemental Debuff Chance.
 inscription_desc_4822,50% chance to cause an explosion that deals Corrosion DMG when killing an enemy.,On Kill: 50% chance to trigger a Corrosive Explosion.
-inscription_desc_4824,"+40% base weapon DMG, -50% Accuracy.",+40% Base Weapon Damage and -50% Accuracy.
-inscription_desc_4825,"CritX +1.2x, RoF -10%.",+1.2x CritX Multiplier and -10% Rate of Fire.
+inscription_desc_4824,"+40% base weapon DMG, -50% Accuracy.",+40% Base Weapon Damage but -50% Accuracy.
+inscription_desc_4825,"CritX +1.2x, RoF -10%.",+1.2x CritX Multiplier but -10% Rate of Fire.
 inscription_desc_4827,+40% total weapon DMG against elites and bosses.,+40% Total Weapon Damage against Elites and Bosses.
 inscription_desc_4828,+50% Elemental Effect Chance on Crit Hit,On Crit: +50% Elemental Debuff Chance.
 inscription_desc_4829,50% chance to fill magazine instantly when killing an enemy,On Kill: 50% chance to Refill Magazine.
@@ -43,9 +43,9 @@ inscription_desc_4853,"When using the scope +150% weapon stability, otherwise +6
 inscription_desc_4856,+50% RoF for 5s after killing an enemy.,On Kill: +50% Rate of Fire for 5s.
 inscription_desc_4857,"-20% Explosion AoE, +40% RoF and -40% Reload Time","+40% Rate of Fire, -40% Reload Time, but -20% Blast Radius."
 inscription_desc_4858,"+10% Lucky Shot Chance for every 10% ammo consumed in the total magazine capacity(Up to 100%, resets on reload or weapon switch).",On 10% Magazine used: +10% Lucky Shot Chance (Stacks 10x up to 100%); On Reload or Swap: Reset Bonus.
-inscription_desc_4859,"When reloading right after defeating an enemy, -50% Reload Time and retain the remaining ammo as additional magazine capacity. The more remaining ammo, the higher the base weapon damage.",On Kill: Reloading soon after is 50% faster; the next Magazine gains bonus Capacity and Base Weapon Damage Equal to the Unused Ammo.
+inscription_desc_4859,"When reloading right after defeating an enemy, -50% Reload Time and retain the remaining ammo as additional magazine capacity. The more remaining ammo, the higher the base weapon damage.",On Kill: Reloading soon after is 50% faster; the next Magazine gains bonus Capacity and Base Weapon Damage equal to the unused Ammo.
 inscription_desc_4860,"After waiting for 1s while scoped, CritX +2.0x for the next shot.",When Scoped for 1s: +2.0x CritX Multiplier for the next shot.
-inscription_desc_4861,Killing an enemy with a critical hit deals the weapon's damage to enemies within 10m.,"On Crit Kill: The Shot Explodes, Damaging Enemies within 10m."
+inscription_desc_4861,Killing an enemy with a critical hit deals the weapon's damage to enemies within 10m.,"On Crit Kill: The Shot explodes, damaging Enemies within 10m."
 inscription_desc_4862,+1.0x CritX for next shot and drops ammo for current weapon when defeating an enemy with crit hit.,On Crit Kill: +1.0x CritX Multiplier for next shot and drops this weapon's Ammo.
 inscription_desc_4864,Return ammo to the magazine on miss.,On Miss: Return Ammo to Magazine.
 inscription_desc_4865,Projectile +0.2 for every enemy killed (resets after reload).,"On Kill: +20% Extra Projectile Chance (Stacks 10x, Every 5 stacks adds 1 Extra Projectile); On Reload or Swap: Bonus Resets."
@@ -53,7 +53,7 @@ inscription_desc_4866,"When triggering Elemental Effect, spread it to all enemie
 inscription_desc_4867,"+100% Effective Range, +100% Accuracy",+100% Range and +100% Accuracy.
 inscription_desc_4868,"+100% Effective Range, +100% Stability",+100% Range and +100% Stability.
 inscription_desc_4869,CritX +0.8x for 1.5 s after using the scope.,On Scope: +0.8x CritX Multiplier for 1.5s.
-inscription_desc_4900,Grants +0.5x CritX and guarantees crit hits for a short time when all three shots deal crit hits.,On Full-Burst Crit: All Shots Crit and +0.5x CritX Multiplier for a short time.
+inscription_desc_4900,Grants +0.5x CritX and guarantees crit hits for a short time when all three shots deal crit hits.,On Full-Burst Crit: All Shots Crit and gain +0.5x CritX Multiplier for a short time.
 inscription_desc_4901,Increase total DMG by 15% for every ammo consumed by using the Weapon Skill.,On Weapon Skill: +15% Total Weapon Damage for each Ammo used.
 inscription_desc_4902,"+0.4x CritX for each enemy defeated with a mark, up to 4x. If the mark misses an enemy, -0.2x bonus CritX",On Marked Kill: +0.4x CritX Multiplier (Max 4.0x); On Mark Miss: -0.2x bonus CritX Multiplier
 inscription_desc_4903,Increases the radius of the forcefield sphere. +50% Lucky Shot Chance to projectiles passing through the sphere.,Increases Orbfield size; Projectiles passing through gain +50% Lucky Shot Chance.
@@ -64,7 +64,7 @@ inscription_desc_4908,Every stack of the buff adds additional 1% Lucky Shot Chan
 inscription_desc_4909,+55% chance to gain one more projectile.,+55% Extra Projectile Chance.
 inscription_desc_4911,The initial split is now 5 bullets.,On First Split: Creates 5 Bullets.
 inscription_desc_4912,Increase total DMG by 30% for every time the shot splits.,On Each Split: +30% Total Weapon Damage.
-inscription_desc_4914,"There is a 33% chance to create a large explosion on crit hits (guaranteed to trigger after defeating an enemy with a crit hit), dealing DMG and Burning Effect to nearby enemies.","On Crit: 33% (On Crit Kill: 100%) chance for Shot to Explode, Damaging and Burning nearby enemies."
+inscription_desc_4914,"There is a 33% chance to create a large explosion on crit hits (guaranteed to trigger after defeating an enemy with a crit hit), dealing DMG and Burning Effect to nearby enemies.","On Crit: 33% (On Crit Kill: 100%) chance for Shot to explode, damaging and Burning nearby enemies."
 inscription_desc_4916,Hitting an enemy up 10% weapon DMG for 2s (Up to +150%).,On Hit: +10% Weapon Damage for 2s (Stacks 15x up to +150%).
 inscription_desc_4917,"Projectiles +4, Effective Range +80%.",+4 Extra Projectiles and +80% Range.
 inscription_desc_4918,+200% Effective Range; +1 Piercing. +100% Shot Speed.,"+200% Range, +1 Projectile Pierce, +100% Projectile Speed."
@@ -86,14 +86,14 @@ inscription_desc_4933,"+30% Weapon DMG, +1.0x CritX, and shots do not consume am
 inscription_desc_4934,"+75% Lucky Shot Chance for each 0.5s, up to 150%",While Charging: +75% Lucky Shot Chance for each 0.5s (Stacks 2x up to 150%).
 inscription_desc_4935,"RoF +50%, Projectile speed +50%, Lucky Shot Chance +50%","+50% Rate of Fire, +50% Projectile Speed, and +50% Lucky Shot Chance."
 inscription_desc_4936,+100% Lucky Shot Chance per ricochet.,On Bounce: +100% Lucky Shot Chance.
-inscription_desc_4937,Deals extra DMG when the projectile goes through the enemy. Weapon RoF -30%.,On Pierce: Add damage equal to 2x the pierced Enemy's Damage Taken; but -30% Rate of Fire.
+inscription_desc_4937,Deals extra DMG when the projectile goes through the enemy. Weapon RoF -30%.,On Pierce: Shot deals bonus damage equal to 2x the Damage Taken by the pierced Enemy; but -30% Rate of Fire.
 talent_name_2025,Twin Gunner,Twin Gunner
 talent_name_2026|talent_name_5401,Ember Eruption,Ember Eruption
 talent_name_2028|state_name_32032|suit_item_15021_1|suit_item_15052_5|talent_name_5402|state_name_32047|seasonsuit_item_15021_1|seasonsuit_item_15052_5,Sustained Fire,Sustained Fire
 talent_name_2029|state_name_32033|throw_name_1415|suit_item_15051_3|talent_name_5403|seasonsuit_item_15051_3,Adrenal Rush,Adrenal Rush
 talent_name_2030|state_name_32045|suit_item_15020_1|seasonsuit_item_15020_1,Survival Instinct,Survival Instinct
 talent_name_2031|suit_item_15051_4|talent_name_5404|seasonsuit_item_15051_4,Close Call,Close Call
-talent_name_2032|state_name_32035,Golden Comeback,Golden Comeback
+talent_name_2032|state_name_32035,Golden Comeback,Eternal Defiance
 talent_name_2033|roomchallenge_name_3001_1021|roomchallenge_name_3001_1022|suit_item_15051_5|roomchallenge_name_3020_1021|roomchallenge_name_3020_1022|roomchallenge_name_3008_1021|roomchallenge_name_3008_1022|seasonsuit_item_15051_5,Battle-Tested,Battle-Tested
 talent_name_2034|state_name_32052,Sharpshooter,Sharpshooter
 talent_name_2035|state_name_32050,Lucky Ammo,Lucky Ammo
@@ -131,54 +131,54 @@ talent_name_2210|state_name_32217|talent_name_2219,Easy Kill,Easy Kill
 talent_name_2212,Cleave Carnival,Cleave Carnival
 talent_name_2214|suit_item_15056_4|talent_name_5410|seasonsuit_item_15056_4,Close Combat,Close Combat
 talent_name_2216|state_name_32213|state_name_32214|clientstate_name_1003|talent_name_5411,Hail of Bullets,Hail of Bullets
-talent_desc_2025_1,"While Dual-Wielding, +100% Weapon DMG, but +100% ammo consumption.","While Dual-Wielding, +100% Weapon DMG, but +100% ammo consumption."
-talent_desc_2025_2,"While Dual-Wielding, +125% Weapon DMG, and there is a 50% chance to +100% ammo consumption.","While Dual-Wielding, +125% Weapon DMG, and there is a 50% chance to +100% ammo consumption."
-talent_desc_2025_3,"While Dual-Wielding, +150% Weapon DMG without additional ammo consumption.","While Dual-Wielding, +150% Weapon DMG without additional ammo consumption."
-talent_desc_2026_1|talent_desc_5401_1,"When the remaining ammo in the magazine is 30% or less (or equal to 1), +40% weapon DMG.","When the remaining ammo in the magazine is 30% or less (or equal to 1), +40% weapon DMG."
-talent_desc_2026_2|talent_desc_5401_2,"When the remaining ammo in the magazine is 40% or less (or equal to 1), +80% weapon DMG.","When the remaining ammo in the magazine is 40% or less (or equal to 1), +80% weapon DMG."
-talent_desc_2026_3|talent_desc_5401_3,"When the remaining ammo in the magazine is 50% or less (or equal to 1), +120% weapon DMG.","When the remaining ammo in the magazine is 50% or less (or equal to 1), +120% weapon DMG."
-talent_desc_2028_1|talent_desc_5402_1,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +50% for 6s","After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +50% for 6s"
-talent_desc_2028_2|talent_desc_5402_2,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +75% for 6s","After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +75% for 6s"
-talent_desc_2028_3|talent_desc_5402_3,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +100% for 20s","After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +100% for 20s"
-talent_desc_2029_1|talent_desc_5403_1|talent_briefdesc_5403_1,+10% DMG Resistance and recover 1% HP/s for 6s after killing an enemy or destroying an item.,+10% DMG Resistance and recover 1% HP/s for 6s after killing an enemy or destroying an item.
-talent_desc_2029_2|talent_desc_5403_2|talent_briefdesc_5403_2,+15% DMG Resistance and recover 1.5% HP/s for 6s after killing an enemy or destroying an item.,+15% DMG Resistance and recover 1.5% HP/s for 6s after killing an enemy or destroying an item.
-talent_desc_2029_3|talent_desc_5403_3|talent_briefdesc_5403_3,+20% DMG Resistance and recover 2% HP/s for 20s after killing an enemy or destroying an item.,+20% DMG Resistance and recover 2% HP/s for 20s after killing an enemy or destroying an item.
-talent_desc_2030_1,"+20 Max HP. During dual-wielding, Max HP bonus is doubled","+20 Max HP. During dual-wielding, Max HP bonus is doubled"
-talent_desc_2030_2,"+40 Max HP. During dual-wielding, Max HP bonus is doubled","+40 Max HP. During dual-wielding, Max HP bonus is doubled"
-talent_desc_2030_3,"+60 Max HP. During dual-wielding, Max HP bonus is doubled, and there's a 50% chance of recovering HP equivalent to DMG taken when injured.","+60 Max HP. During dual-wielding, Max HP bonus is doubled, and there's a 50% chance of recovering HP equivalent to DMG taken when injured."
-talent_desc_2031_1|talent_briefdesc_2031_1|talent_desc_5404_1|talent_briefdesc_5404_1,"When max HP decreased by 25%, immune to normal damage for 2s.","When max HP decreased by 25%, immune to normal damage for 2s."
-talent_desc_2031_2|talent_briefdesc_2031_2|talent_desc_5404_2|talent_briefdesc_5404_2,"When max HP decreased by 25%, immune to normal damage for 3s.","When max HP decreased by 25%, immune to normal damage for 3s."
-talent_desc_2031_3|talent_briefdesc_2031_3|talent_desc_5404_3|talent_briefdesc_5404_3,"When max HP decreased by 10%, immune to normal damage for 4s.","When max HP decreased by 10%, immune to normal damage for 4s."
-talent_desc_2032_1,"During the Dual-Wield, recover to 30% of Max HP when taking first 2 lethal damage, and immune to damage for 1s","During the Dual-Wield, recover to 30% of Max HP when taking first 2 lethal damage, and immune to damage for 1s"
-talent_desc_2032_2,"During the Dual-Wield, recover to 40% of Max HP when taking first 3 lethal damage, and immune to damage for 1s","During the Dual-Wield, recover to 40% of Max HP when taking first 3 lethal damage, and immune to damage for 1s"
-talent_desc_2032_3,"During the Dual-Wield, recover to 50% of Max HP when taking first 4 lethal damage, and immune to damage for 1s. When all charges are used, recover to 1 charge after 4s","During the Dual-Wield, recover to 50% of Max HP when taking first 4 lethal damage, and immune to damage for 1s. When all charges are used, recover to 1 charge after 4s"
-talent_desc_2033_1,+50% duration to dual-wielding,+50% duration to dual-wielding
-talent_desc_2033_2,+75% duration to dual-wielding,+75% duration to dual-wielding
-talent_desc_2033_3,"Doubled the duration of Dual-wielding. While dual-wielding, every 20 ammo consumed +2s to the duration.","Doubled the duration of Dual-wielding. While dual-wielding, every 20 ammo consumed +2s to the duration."
-talent_desc_2034_1,"+30% RoF and Accuracy while dual-wielding. When dual-wield ends, -1s next dual-wield cooldown for every 1s of remaining duration.","+30% RoF and Accuracy while dual-wielding. When dual-wield ends, -1s next dual-wield cooldown for every 1s of remaining duration."
-talent_desc_2035_1,+20% to Lucky Shot Chance while dual-wielding,+20% to Lucky Shot Chance while dual-wielding
-talent_desc_2035_2,+30% to Lucky Shot Chance while dual-wielding,+30% to Lucky Shot Chance while dual-wielding
-talent_desc_2035_3,"+40% Lucky Shot Chance while dual-wielding. When triggering a crit hit and a lucky shot simultaneously, gain an additional +20% Lucky Shot Chance for 1s.","+40% Lucky Shot Chance while dual-wielding. When triggering a crit hit and a lucky shot simultaneously, gain an additional +20% Lucky Shot Chance for 1s."
-talent_desc_2036_1,"Recovers 5 reserve ammo per second. While dual-wielding, doubles the amount of ammo recovery, and grants you a 20% chance not to consume ammo upon shooting.","Recovers 5 reserve ammo per second. While dual-wielding, doubles the amount of ammo recovery, and grants you a 20% chance not to consume ammo upon shooting."
-talent_desc_2036_2,"Recovers 10 reserve ammo per second. While dual-wielding, doubles the amount of ammo recovery, and grants you a 35% chance not to consume ammo upon shooting.","Recovers 10 reserve ammo per second. While dual-wielding, doubles the amount of ammo recovery, and grants you a 35% chance not to consume ammo upon shooting."
-talent_desc_2036_3,"Recovers 15 reserve ammo per second. While dual-wielding, doubles the amount of ammo recovery, and grants you a 50% chance not to consume ammo upon shooting.","Recovers 15 reserve ammo per second. While dual-wielding, doubles the amount of ammo recovery, and grants you a 50% chance not to consume ammo upon shooting."
-talent_desc_2037_1,"Explosion AoE for grenades and explosives weapon +2m, and explosion DMG +30%.","Explosion AoE for grenades and explosives weapon +2m, and explosion DMG +30%."
-talent_desc_2037_2,"Explosion AoE for grenades and explosives weapon +4m, and explosion DMG +45%.","Explosion AoE for grenades and explosives weapon +4m, and explosion DMG +45%."
-talent_desc_2037_3,"Explosion AoE for grenades and explosives weapon +6m, and explosion DMG +100%.","Explosion AoE for grenades and explosives weapon +6m, and explosion DMG +100%."
-talent_desc_2038_1,Explosive Grenade Base DMG +100%; there is a 30% chance of not consuming a grenade,Explosive Grenade Base DMG +100%; there is a 30% chance of not consuming a grenade
-talent_desc_2038_2,Explosive Grenade Base DMG +150%; there is a 45% chance of not consuming a grenade,Explosive Grenade Base DMG +150%; there is a 45% chance of not consuming a grenade
-talent_desc_2038_3,"Explosive Grenade Base DMG +200%; there is a 60% chance of not consuming a grenade, and gain one grenade every 10s","Explosive Grenade Base DMG +200%; there is a 60% chance of not consuming a grenade, and gain one grenade every 10s"
-talent_desc_2039_1,+20% explosion DMG; +5% DMG dealt for each enemy within the explosion range,+20% explosion DMG; +5% DMG dealt for each enemy within the explosion range
-talent_desc_2039_2,+40% explosion DMG; +7% DMG dealt for each enemy within the explosion range,+40% explosion DMG; +7% DMG dealt for each enemy within the explosion range
-talent_desc_2039_3,+60% explosion DMG; +9% DMG dealt and +9% chance to deal double DMG for each enemy within the explosion range,+60% explosion DMG; +9% DMG dealt and +9% chance to deal double DMG for each enemy within the explosion range
+talent_desc_2025_1,"While Dual-Wielding, +100% Weapon DMG, but +100% ammo consumption.",During Dual-Wield: +100% Weapon Damage but each Shot costs +100% Ammo.
+talent_desc_2025_2,"While Dual-Wielding, +125% Weapon DMG, and there is a 50% chance to +100% ammo consumption.",During Dual-Wield: +125% Weapon Damage but each Shot has a 50% chance to cost +100% Ammo.
+talent_desc_2025_3,"While Dual-Wielding, +150% Weapon DMG without additional ammo consumption.",During Dual-Wield: +150% Weapon Damage.
+talent_desc_2026_1|talent_desc_5401_1,"When the remaining ammo in the magazine is 30% or less (or equal to 1), +40% weapon DMG.",While Under 30% Magazine (or Last Shot): +40% Weapon Damage.
+talent_desc_2026_2|talent_desc_5401_2,"When the remaining ammo in the magazine is 40% or less (or equal to 1), +80% weapon DMG.",While Under 40% Magazine (or Last Shot): +80% Weapon Damage.
+talent_desc_2026_3|talent_desc_5401_3,"When the remaining ammo in the magazine is 50% or less (or equal to 1), +120% weapon DMG.",While Under 50% Magazine (or Last Shot):  +120% weapon DMG.
+talent_desc_2028_1|talent_desc_5402_1,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +50% for 6s",On Kill (Or Item Break): +50% Weapon Damage and +50% Explosion Damage for 6s
+talent_desc_2028_2|talent_desc_5402_2,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +75% for 6s",On Kill (Or Item Break): +75% Weapon Damage and +75% Explosion Damage for 6s
+talent_desc_2028_3|talent_desc_5402_3,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +100% for 20s",On Kill (Or Item Break): +100% Weapon Damage and +100% Explosion Damage for 20s
+talent_desc_2029_1|talent_desc_5403_1|talent_briefdesc_5403_1,+10% DMG Resistance and recover 1% HP/s for 6s after killing an enemy or destroying an item.,On Kill (Or Item Break): +10% Damage Resistance and Heal 1% HP per second for 6s.
+talent_desc_2029_2|talent_desc_5403_2|talent_briefdesc_5403_2,+15% DMG Resistance and recover 1.5% HP/s for 6s after killing an enemy or destroying an item.,On Kill (Or Item Break): +15% Damage Resistance and Heal 1.5% HP per second for 6s.
+talent_desc_2029_3|talent_desc_5403_3|talent_briefdesc_5403_3,+20% DMG Resistance and recover 2% HP/s for 20s after killing an enemy or destroying an item.,On Kill (Or Item Break): +20% Damage Resistance and Heal 2% HP per second for 20s.
+talent_desc_2030_1,"+20 Max HP. During dual-wielding, Max HP bonus is doubled",+20 Max HP; During Dual-Wield: Bonus is doubled.
+talent_desc_2030_2,"+40 Max HP. During dual-wielding, Max HP bonus is doubled",+40 Max HP; During Dual-Wield: Bonus is doubled.
+talent_desc_2030_3,"+60 Max HP. During dual-wielding, Max HP bonus is doubled, and there's a 50% chance of recovering HP equivalent to DMG taken when injured.",+60 Max HP; During Dual-Wield: Bonus is doubled and 50% chance to Heal Damage Taken.
+talent_desc_2031_1|talent_briefdesc_2031_1|talent_desc_5404_1|talent_briefdesc_5404_1,"When max HP decreased by 25%, immune to normal damage for 2s.",On 25% Max HP Lost: 2s of Normal Damage Immunity.
+talent_desc_2031_2|talent_briefdesc_2031_2|talent_desc_5404_2|talent_briefdesc_5404_2,"When max HP decreased by 25%, immune to normal damage for 3s.",On 25% Max HP Lost: 3s of Normal Damage Immunity.
+talent_desc_2031_3|talent_briefdesc_2031_3|talent_desc_5404_3|talent_briefdesc_5404_3,"When max HP decreased by 10%, immune to normal damage for 4s.",On 10% Max HP Lost: 4s of Normal Damage Immunity.
+talent_desc_2032_1,"During the Dual-Wield, recover to 30% of Max HP when taking first 2 lethal damage, and immune to damage for 1s",During Dual-Wield: Survive first 2 Lethal Hits with 30% HP and 1s Invulnerability.
+talent_desc_2032_2,"During the Dual-Wield, recover to 40% of Max HP when taking first 3 lethal damage, and immune to damage for 1s",During Dual-Wield: Survive first 3 Lethal Hits with 40% HP and 1s Invulnerability.
+talent_desc_2032_3,"During the Dual-Wield, recover to 50% of Max HP when taking first 4 lethal damage, and immune to damage for 1s. When all charges are used, recover to 1 charge after 4s",During Dual-Wield: Survive first 4 Lethal Hits with 50% HP and 1s Invulnerability; Survive another Lethal Hit every 4s.
+talent_desc_2033_1,+50% duration to dual-wielding,+50% Dual-Wield Duration.
+talent_desc_2033_2,+75% duration to dual-wielding,+75% Dual-Wield Duration.
+talent_desc_2033_3,"Doubled the duration of Dual-wielding. While dual-wielding, every 20 ammo consumed +2s to the duration.",Double Dual-Wield Duration. During Dual-Wield: Consuming 20 ammo extends Dual-Wield by 2s.
+talent_desc_2034_1,"+30% RoF and Accuracy while dual-wielding. When dual-wield ends, -1s next dual-wield cooldown for every 1s of remaining duration.",During Dual-Wield: +30% Rate of Fire and +30% Accuracy. After Dual-Wield: Reduce next Cooldown by 1s for each second of unused duration.
+talent_desc_2035_1,+20% to Lucky Shot Chance while dual-wielding,During Dual-Wield: +20% Lucky Shot Chance.
+talent_desc_2035_2,+30% to Lucky Shot Chance while dual-wielding,During Dual-Wield: +30% Lucky Shot Chance.
+talent_desc_2035_3,"+40% Lucky Shot Chance while dual-wielding. When triggering a crit hit and a lucky shot simultaneously, gain an additional +20% Lucky Shot Chance for 1s.",During Dual-Wield: +40% Lucky Shot Chance. On Crit and Lucky Shot: +20% Lucky Shot Chance for 1s.
+talent_desc_2036_1,"Recovers 5 reserve ammo per second. While dual-wielding, doubles the amount of ammo recovery, and grants you a 20% chance not to consume ammo upon shooting.",Gain 5 Reserve Ammo per second. During Dual-Wield: Bonus is doubled and each Shot has a 20% chance to not use Ammo.
+talent_desc_2036_2,"Recovers 10 reserve ammo per second. While dual-wielding, doubles the amount of ammo recovery, and grants you a 35% chance not to consume ammo upon shooting.",Gain 10 Reserve Ammo per second. During Dual-Wield: Bonus is doubled and each Shot has a 35% chance to not use Ammo.
+talent_desc_2036_3,"Recovers 15 reserve ammo per second. While dual-wielding, doubles the amount of ammo recovery, and grants you a 50% chance not to consume ammo upon shooting.",Gain 15 Reserve Ammo per second. During Dual-Wield: Bonus is doubled and each Shot has a 50% chance to not use Ammo.
+talent_desc_2037_1,"Explosion AoE for grenades and explosives weapon +2m, and explosion DMG +30%.",+2m Blast Radius for Grenades and Explosive Weapons and +30% Explosion Damage.
+talent_desc_2037_2,"Explosion AoE for grenades and explosives weapon +4m, and explosion DMG +45%.",+4m Blast Radius for Grenades and Explosive Weapons and +45% Explosion Damage.
+talent_desc_2037_3,"Explosion AoE for grenades and explosives weapon +6m, and explosion DMG +100%.",+6m Blast Radius for Grenades and Explosive Weapons and +100% Explosion Damage.
+talent_desc_2038_1,Explosive Grenade Base DMG +100%; there is a 30% chance of not consuming a grenade,+100% Grenade Base Damage; 30% chance to throw a free Grenade
+talent_desc_2038_2,Explosive Grenade Base DMG +150%; there is a 45% chance of not consuming a grenade,+150% Grenade Base Damage; 45% chance to throw a free Grenade
+talent_desc_2038_3,"Explosive Grenade Base DMG +200%; there is a 60% chance of not consuming a grenade, and gain one grenade every 10s",+200% Grenade Base Damage; 60% chance to throw a free Grenade; Gain one Grenade every 10s
+talent_desc_2039_1,+20% explosion DMG; +5% DMG dealt for each enemy within the explosion range,+20% Explosion Damage; +5% Damage Dealt for each Enemy caught in an Explosion
+talent_desc_2039_2,+40% explosion DMG; +7% DMG dealt for each enemy within the explosion range,+40% Explosion Damage; +7% Damage Dealt for each Enemy caught in an Explosion
+talent_desc_2039_3,+60% explosion DMG; +9% DMG dealt and +9% chance to deal double DMG for each enemy within the explosion range,+60% Explosion Damage; +9% Damage Dealt and +9% chance to double Damage for each Enemy caught in an Explosion.
 talent_desc_2041_1,"During Dual-Wielding, gain +3% Weapon DMG and +1% lucky shot chance every 0.5s with continuous firing (up to 20 stacks). \nLose 5 stacks every 0.5s when not firing.","During Dual-Wielding, gain +3% Weapon DMG and +1% lucky shot chance every 0.5s with continuous firing (up to 20 stacks). \nLose 5 stacks every 0.5s when not firing."
-talent_desc_2042_1|talent_desc_5405_1,"-20% Reload Time, +30% Weapon DMG within 4s after reloading","-20% Reload Time, +30% Weapon DMG within 4s after reloading"
-talent_desc_2042_2|talent_desc_5405_2,"-35% Reload Time, +60% Weapon DMG within 5s after reloading","-35% Reload Time, +60% Weapon DMG within 5s after reloading"
-talent_desc_2042_3|talent_desc_5405_3,"-50% Reload Time, +100% Weapon DMG within 6s after reloading","-50% Reload Time, +100% Weapon DMG within 6s after reloading"
-talent_desc_2043_1,Increase 30% Total DMG if grenades or explosive weapons deal DMG to only one enemy,Increase 30% Total DMG if grenades or explosive weapons deal DMG to only one enemy
-talent_desc_2043_2,Increase 45% Total DMG if grenades or explosive weapons deal DMG to only one enemy,Increase 45% Total DMG if grenades or explosive weapons deal DMG to only one enemy
-talent_desc_2043_3,Increase 60% Total DMG if grenades or explosive weapons deal DMG to 3 enemies or fewer,Increase 60% Total DMG if grenades or explosive weapons deal DMG to 3 enemies or fewer
-talent_desc_2044_1,Toss 2 grenades instead of 1 with no additional consumption.,Toss 2 grenades instead of 1 with no additional consumption.
+talent_desc_2042_1|talent_desc_5405_1,"-20% Reload Time, +30% Weapon DMG within 4s after reloading",-20% Reload Time; On Reload: +30% Weapon DMG for 4s.
+talent_desc_2042_2|talent_desc_5405_2,"-35% Reload Time, +60% Weapon DMG within 5s after reloading",-35% Reload Time: On Reload: +60% Weapon DMG for 5s
+talent_desc_2042_3|talent_desc_5405_3,"-50% Reload Time, +100% Weapon DMG within 6s after reloading",-50% Reload Time; On Reload: +100% Weapon DMG for 6s
+talent_desc_2043_1,Increase 30% Total DMG if grenades or explosive weapons deal DMG to only one enemy,When a Grenade or Explosive Weapon only hits one Enemy: +30% Total Explosive DMG
+talent_desc_2043_2,Increase 45% Total DMG if grenades or explosive weapons deal DMG to only one enemy,When a Grenade or Explosive Weapon only hits one Enemy: +45% Total Explosive DMG
+talent_desc_2043_3,Increase 60% Total DMG if grenades or explosive weapons deal DMG to 3 enemies or fewer,When a Grenade or Explosive Weapon only hits three Enemies or less: +60% Total Explosive DMG
+talent_desc_2044_1,Toss 2 grenades instead of 1 with no additional consumption.,Throw an extra Grenade
 talent_desc_2102_1,Energy Orb freezes enemies for 2 more seconds.,Energy Orb freezes enemies for 2 more seconds.
 talent_desc_2102_2,Energy Orb freezes enemies for 4 more seconds.,Energy Orb freezes enemies for 4 more seconds.
 talent_desc_2102_3,Energy Orb freezes enemies for 6 more seconds with -30% CD.,Energy Orb freezes enemies for 6 more seconds with -30% CD.
