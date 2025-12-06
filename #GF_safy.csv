@@ -3,90 +3,90 @@
 NormalText,,
 inscription_desc_4801|s6diceability_desc_51301_1,CritX +0.4x,+0.4x CritX Multiplier.
 inscription_desc_4802,Magazine Capacity +60%.,+60% Magazine Capacity.
-inscription_desc_4803,RoF +25%.,+25% Rate of Fire (RoF).
+inscription_desc_4803,RoF +25%.,+25% Rate of Fire.
 inscription_desc_4804,"Accuracy +80%, Stability +80%",+80% Accuracy and +80% Stability.
 inscription_desc_4806,-40% Reload Time,-40% Reload Time.
 inscription_desc_4807,+50% total Weapon DMG against enemies in Burning Effect.,+50% Total Weapon Damage against Burning Enemies.
 inscription_desc_4808,+50% total Weapon DMG against enemies in Decay Effect.,+50% Total Weapon Damage against Decaying Enemies.
 inscription_desc_4809,+50% total Weapon DMG against enemies in Shock Effect.,+50% Total Weapon Damage against Shocked Enemies.
 inscription_desc_4812,30% chance to recover 50% ammo to the magazine when you kill an enemy.,On Kill: 30% chance to Refill 50% of Magazine.
-inscription_desc_4815,There's a 25% chance to kill a normal enemy instantly on a crit hit.,On Crit: 25% chance to Kill a Normal Enemy.
-inscription_desc_4816,"Piercing +1, Projectile Speed +100%.",+1 Piercing and +100% Projectile Speed.
-inscription_desc_4818,+80% Weapon DMG for the 2 shots after reloading.,On Reload: First 2 Shots gain +80% Weapon DMG.
-inscription_desc_4819,"+100% Magazine Capacity, +30% Reload Time",+100% Magazine Capacity and +30% Reload Time
-inscription_desc_4820,+65% total weapon DMG against enemies in Elemental Effect.,+65% Total Weapon DMG vs Enemies with an Elemental Debuff.
+inscription_desc_4815,There's a 25% chance to kill a normal enemy instantly on a crit hit.,On Crit: 25% chance to instantly Kill a Normal Enemy.
+inscription_desc_4816,"Piercing +1, Projectile Speed +100%.",+1 Projectile Pierce and +100% Projectile Speed.
+inscription_desc_4818,+80% Weapon DMG for the 2 shots after reloading.,On Reload: First 2 Shots gain +80% Weapon Damage.
+inscription_desc_4819,"+100% Magazine Capacity, +30% Reload Time",+100% Magazine Capacity and +30% Reload Time.
+inscription_desc_4820,+65% total weapon DMG against enemies in Elemental Effect.,+65% Total Weapon Damage against Enemies with an Elemental Debuff.
 inscription_desc_4821,+100% Elemental Effect Chance of this weapon.,+100% Elemental Debuff Chance.
 inscription_desc_4822,50% chance to cause an explosion that deals Corrosion DMG when killing an enemy.,On Kill: 50% chance to trigger a Corrosive Explosion.
-inscription_desc_4824,"+40% base weapon DMG, -50% Accuracy.",+40% Base Weapon DMG and -50% Accuracy.
+inscription_desc_4824,"+40% base weapon DMG, -50% Accuracy.",+40% Base Weapon Damage and -50% Accuracy.
 inscription_desc_4825,"CritX +1.2x, RoF -10%.",+1.2x CritX Multiplier and -10% Rate of Fire.
-inscription_desc_4827,+40% total weapon DMG against elites and bosses.,+40% Total Weapon DMG against Elites and Bosses.
-inscription_desc_4828,+50% Elemental Effect Chance on Crit Hit,On Crit: +50% Elemental Debuff Chance
-inscription_desc_4829,50% chance to fill magazine instantly when killing an enemy,On Kill: 50% chance to Refill Magazine Ammo.
-inscription_desc_4830,+3.0x CritX to the first shot after reload,On Reload: First Shot gains +3.0x CritX Multiplier
+inscription_desc_4827,+40% total weapon DMG against elites and bosses.,+40% Total Weapon Damage against Elites and Bosses.
+inscription_desc_4828,+50% Elemental Effect Chance on Crit Hit,On Crit: +50% Elemental Debuff Chance.
+inscription_desc_4829,50% chance to fill magazine instantly when killing an enemy,On Kill: 50% chance to Refill Magazine.
+inscription_desc_4830,+3.0x CritX to the first shot after reload,On Reload: First Shot gains +3.0x CritX Multiplier.
 inscription_desc_4832,DMG type converts into Fire DMG.,Converts Weapon Damage to Fire.
 inscription_desc_4833,DMG type converts into Corrosion DMG.,Converts Weapon Damage to Corrosion.
 inscription_desc_4834,DMG type converts into Lightning DMG.,Converts Weapon Damage to Lightning.
-inscription_desc_4835,"+10% weapon DMG upon hitting an enemy. (Up to +200%, resets on a miss.)",On Hit until Miss: Gain +10% Weapon Damage (Max +200%).
+inscription_desc_4835,"+10% weapon DMG upon hitting an enemy. (Up to +200%, resets on a miss.)",On Hit: Gain +10% Weapon Damage (Stacks 20x up to +200%); On Miss: Bonus Resets.
 inscription_desc_4836,Weapon auto-reloaded when unequipped.,On Unequip: Reload Weapon.
 inscription_desc_4838,(Gemini) Weapon 1&2 combine their CritX bonus but -50% Stability,Gemini: Both Weapons combine their CritX Multipliers but -50% Stability.
 inscription_desc_4839,(Gemini) Weapon 1 & 2 share their elemental advantages and there's a chance to apply the elemental effect from the other weapon.,Gemini: Both Weapons gain each other's Elemental Debuff Chance & Damage Type.
 inscription_desc_4842,"(Gemini) Weapon 1&2 magazine capacity become the sum of both weapon's magazine capacity, and RoF +25%.",Gemini: Both Weapons combine their Magazine Capacities and gain +25% Rate of Fire.
-inscription_desc_4843,+150% Lucky Shot chance for next two shots after 3 consecutive critical hits.,On 3rd Straight Crit: Next two Shots gain +150% Lucky Shot Chance
+inscription_desc_4843,+150% Lucky Shot chance for next two shots after 3 consecutive critical hits.,On 3rd Straight Crit: Next 2 Shots gain +150% Lucky Shot Chance.
 inscription_desc_4845,"Explosion AoE +2m, Lucky Shot Chance +15%.",+2m Blast Radius and +15% Lucky Shot Chance.
-inscription_desc_4846|state_desc_32050_1|talent_briefdesc_2035_1|inscription_desc_13038|talent_briefdesc_3315_1|state_desc_32812_1|talent_briefdesc_5428_1|state_desc_33774_1,Lucky Shot Chance +20%,+20% Lucky Shot Chance
+inscription_desc_4846|state_desc_32050_1|talent_briefdesc_2035_1|inscription_desc_13038|talent_briefdesc_3315_1|state_desc_32812_1|talent_briefdesc_5428_1|state_desc_33774_1,Lucky Shot Chance +20%,+20% Lucky Shot Chance.
 inscription_desc_4847,"Lucky Shot Chance +50%, Stability -50%.",+50% Lucky Shot Chance but -50% Stability.
 inscription_desc_4848,+20% chance to gain one more projectile.,+20% Extra Projectile Chance.
-inscription_desc_4849,"Projectiles +1, Consumption +100%",+1 Extra Projectile but +100% Consumption
+inscription_desc_4849,"Projectiles +1, Consumption +100%",+1 Extra Projectile but +100% Ammo Cost.
 inscription_desc_4851,"When the magazine is more than 50% full, RoF +50%, and +20% chance to gain one more projectile.",While Over 50% Magazine: +50% Rate of Fire and +20% Extra Projectile Chance.
 inscription_desc_4852,-55% Reload Time when ammo in the magazine is less than 50%.,While Under 50% Magazine: -55% Reload Time.
 inscription_desc_4853,"When using the scope +150% weapon stability, otherwise +60% Accuracy.",While Scoped: +150% Stability; Otherwise: +60% Accuracy.
 inscription_desc_4856,+50% RoF for 5s after killing an enemy.,On Kill: +50% Rate of Fire for 5s.
-inscription_desc_4857,"-20% Explosion AoE, +40% RoF and -40% Reload Time","+40% Rate of Fire, -40% Reload Time, but -20% Blast Radius"
-inscription_desc_4858,"+10% Lucky Shot Chance for every 10% ammo consumed in the total magazine capacity(Up to 100%, resets on reload or weapon switch).",Each 10% Magazine used: +10% Lucky Shot Chance (Max 100%); On Reload or Switch: Reset Bonus.
-inscription_desc_4859,"When reloading right after defeating an enemy, -50% Reload Time and retain the remaining ammo as additional magazine capacity. The more remaining ammo, the higher the base weapon damage.",Reload On Kill: -50% Reload Time then add unused Ammo to next Magazine and Base Weapon Damage.
-inscription_desc_4860,"After waiting for 1s while scoped, CritX +2.0x for the next shot.",When Scoped for 1s: +2.0x CritX for the next shot.
-inscription_desc_4861,Killing an enemy with a critical hit deals the weapon's damage to enemies within 10m.,On Crit Kill: The shot explodes damaging enemies within 10m.
+inscription_desc_4857,"-20% Explosion AoE, +40% RoF and -40% Reload Time","+40% Rate of Fire, -40% Reload Time, but -20% Blast Radius."
+inscription_desc_4858,"+10% Lucky Shot Chance for every 10% ammo consumed in the total magazine capacity(Up to 100%, resets on reload or weapon switch).",On 10% Magazine used: +10% Lucky Shot Chance (Stacks 10x up to 100%); On Reload or Swap: Reset Bonus.
+inscription_desc_4859,"When reloading right after defeating an enemy, -50% Reload Time and retain the remaining ammo as additional magazine capacity. The more remaining ammo, the higher the base weapon damage.",On Kill: Reloading soon after is 50% faster; the next Magazine gains bonus Capacity and Base Weapon Damage Equal to the Unused Ammo.
+inscription_desc_4860,"After waiting for 1s while scoped, CritX +2.0x for the next shot.",When Scoped for 1s: +2.0x CritX Multiplier for the next shot.
+inscription_desc_4861,Killing an enemy with a critical hit deals the weapon's damage to enemies within 10m.,"On Crit Kill: The Shot Explodes, Damaging Enemies within 10m."
 inscription_desc_4862,+1.0x CritX for next shot and drops ammo for current weapon when defeating an enemy with crit hit.,On Crit Kill: +1.0x CritX Multiplier for next shot and drops this weapon's Ammo.
 inscription_desc_4864,Return ammo to the magazine on miss.,On Miss: Return Ammo to Magazine.
-inscription_desc_4865,Projectile +0.2 for every enemy killed (resets after reload).,"On Kill: +20% Extra Projectile Chance (Stacks 10x, Every 5 stacks, add 1 Extra Projectile); On Reload or Swap: Bonus Resets."
+inscription_desc_4865,Projectile +0.2 for every enemy killed (resets after reload).,"On Kill: +20% Extra Projectile Chance (Stacks 10x, Every 5 stacks adds 1 Extra Projectile); On Reload or Swap: Bonus Resets."
 inscription_desc_4866,"When triggering Elemental Effect, spread it to all enemies within 8m.",On Elemental Debuff: Spread to all enemies within 8m.
-inscription_desc_4867,"+100% Effective Range, +100% Accuracy",+100% Range and +100% Accuracy
-inscription_desc_4868,"+100% Effective Range, +100% Stability",+100% Range and +100% Stability
-inscription_desc_4869,CritX +0.8x for 1.5 s after using the scope.,On Scope: CritX +0.8x for 1.5s.
-inscription_desc_4900,Grants +0.5x CritX and guarantees crit hits for a short time when all three shots deal crit hits.,On Full-Burst Crit: Gain Guaranteed Crits and +0.5x CritX Multiplier for a short time.
-inscription_desc_4901,Increase total DMG by 15% for every ammo consumed by using the Weapon Skill.,On Weapon Skill: +15% Total DMG for each Ammo used.
+inscription_desc_4867,"+100% Effective Range, +100% Accuracy",+100% Range and +100% Accuracy.
+inscription_desc_4868,"+100% Effective Range, +100% Stability",+100% Range and +100% Stability.
+inscription_desc_4869,CritX +0.8x for 1.5 s after using the scope.,On Scope: +0.8x CritX Multiplier for 1.5s.
+inscription_desc_4900,Grants +0.5x CritX and guarantees crit hits for a short time when all three shots deal crit hits.,On Full-Burst Crit: All Shots Crit and +0.5x CritX Multiplier for a short time.
+inscription_desc_4901,Increase total DMG by 15% for every ammo consumed by using the Weapon Skill.,On Weapon Skill: +15% Total Weapon Damage for each Ammo used.
 inscription_desc_4902,"+0.4x CritX for each enemy defeated with a mark, up to 4x. If the mark misses an enemy, -0.2x bonus CritX",On Marked Kill: +0.4x CritX Multiplier (Max 4.0x); On Mark Miss: -0.2x bonus CritX Multiplier
 inscription_desc_4903,Increases the radius of the forcefield sphere. +50% Lucky Shot Chance to projectiles passing through the sphere.,Increases Orbfield size; Projectiles passing through gain +50% Lucky Shot Chance.
-inscription_desc_4904,RoF +50%. Accuracy and Stability +100%.,"+50% Rate of Fire, +100% Accuracy, and +100% Stability"
-inscription_desc_4905,Increase total DMG by 2% for each ammo in the magazine.,+2% Total DMG for each Ammo in the Magazine.
+inscription_desc_4904,RoF +50%. Accuracy and Stability +100%.,"+50% Rate of Fire, +100% Accuracy, and +100% Stability."
+inscription_desc_4905,Increase total DMG by 2% for each ammo in the magazine.,+2% Total Weapon Damage for each Ammo in the Magazine.
 inscription_desc_4907,Reloading halves the crit buff stacks.,On Reload: Save half of the Crit Buff stacks.
 inscription_desc_4908,Every stack of the buff adds additional 1% Lucky Shot Chance and 5% Stability.,Each Crit Buff stack grants +1% Lucky Shot Chance and +5% Stability.
-inscription_desc_4909,+55% chance to gain one more projectile.,+55% chance to shoot an extra Projectile.
-inscription_desc_4911,The initial split is now 5 bullets.,The initial split is now 5 bullets.
-inscription_desc_4912,Increase total DMG by 30% for every time the shot splits.,Increase total DMG by 30% for every time the shot splits.
-inscription_desc_4914,"There is a 33% chance to create a large explosion on crit hits (guaranteed to trigger after defeating an enemy with a crit hit), dealing DMG and Burning Effect to nearby enemies.","There is a 33% chance to create a large explosion on crit hits (guaranteed to trigger after defeating an enemy with a crit hit), dealing DMG and Burning Effect to nearby enemies."
-inscription_desc_4916,Hitting an enemy up 10% weapon DMG for 2s (Up to +150%).,Hitting an enemy up 10% weapon DMG for 2s (Up to +150%).
-inscription_desc_4917,"Projectiles +4, Effective Range +80%.","Projectiles +4, Effective Range +80%."
-inscription_desc_4918,+200% Effective Range; +1 Piercing. +100% Shot Speed.,+200% Effective Range; +1 Piercing. +100% Shot Speed.
-inscription_desc_4919,+20% Lucky Shot Chance. +1.0x CritX and +30% Lucky Shot Chance when fully charged.,+20% Lucky Shot Chance. +1.0x CritX and +30% Lucky Shot Chance when fully charged.
-inscription_desc_4920,"When firing at enemy within 5m, Lucky Shot Chance +80%.","When firing at enemy within 5m, Lucky Shot Chance +80%."
-inscription_desc_4921,+50% total DMG on a direct hit.,+50% total DMG on a direct hit.
-inscription_desc_4922,Weapon DMG bonus for hitting the same target +100%.,Weapon DMG bonus for hitting the same target +100%.
-inscription_desc_4923,Increase total DMG by 50% for every bounce the projectile made. (Max+100%).,Increase total DMG by 50% for every bounce the projectile made. (Max+100%).
-inscription_desc_4924,"For every enemy hit, increase total DMG Dealt by 25% (Up to +200%) to current attack.","For every enemy hit, increase total DMG Dealt by 25% (Up to +200%) to current attack."
-inscription_desc_4925,+100% Total DMG to enemies pulled into the gravity orb's center,+100% Total DMG to enemies pulled into the gravity orb's center
-inscription_desc_4926,+25% Lucky Shot Chance for each projectile detonated at the same time.,+25% Lucky Shot Chance for each projectile detonated at the same time.
-inscription_desc_4927,+3m AoE Range. Enemies inflicted get hit once again at 50% usual DMG.,+3m AoE Range. Enemies inflicted get hit once again at 50% usual DMG.
-inscription_desc_4928,Grants an additional beam that homes in on another enemy at 50% usual DMG.,Grants an additional beam that homes in on another enemy at 50% usual DMG.
-inscription_desc_4929,Elemental effect chance +100%. Increase total weapon DMG by 50% against enemies affected by Burning effect.,Elemental effect chance +100%. Increase total weapon DMG by 50% against enemies affected by Burning effect.
-inscription_desc_4930,+100% Weapon DMG for each enemy the ammo pierces and an additional damage is applied to all enemies it has passed through.,+100% Weapon DMG for each enemy the ammo pierces and an additional damage is applied to all enemies it has passed through.
-inscription_desc_4931,"After hitting an enemy with both bullets, next shot +1.5x CritX .","After hitting an enemy with both bullets, next shot +1.5x CritX ."
-inscription_desc_4932,"+30% weapon DMG and RoF, -50% Charge Time with scope on.","+30% weapon DMG and RoF, -50% Charge Time with scope on."
-inscription_desc_4933,"+30% Weapon DMG, +1.0x CritX, and shots do not consume ammo within 2s while using ADS.","+30% Weapon DMG, +1.0x CritX, and shots do not consume ammo within 2s while using ADS."
-inscription_desc_4934,"+75% Lucky Shot Chance for each 0.5s, up to 150%","+75% Lucky Shot Chance for each 0.5s, up to 150%"
-inscription_desc_4935,"RoF +50%, Projectile speed +50%, Lucky Shot Chance +50%","RoF +50%, Projectile speed +50%, Lucky Shot Chance +50%"
-inscription_desc_4936,+100% Lucky Shot Chance per ricochet.,+100% Lucky Shot Chance per ricochet.
-inscription_desc_4937,Deals extra DMG when the projectile goes through the enemy. Weapon RoF -30%.,Deals extra DMG when the projectile goes through the enemy. Weapon RoF -30%.
+inscription_desc_4909,+55% chance to gain one more projectile.,+55% Extra Projectile Chance.
+inscription_desc_4911,The initial split is now 5 bullets.,On First Split: Creates 5 Bullets.
+inscription_desc_4912,Increase total DMG by 30% for every time the shot splits.,On Each Split: +30% Total Weapon Damage.
+inscription_desc_4914,"There is a 33% chance to create a large explosion on crit hits (guaranteed to trigger after defeating an enemy with a crit hit), dealing DMG and Burning Effect to nearby enemies.","On Crit: 33% (On Crit Kill: 100%) chance for Shot to Explode, Damaging and Burning nearby enemies."
+inscription_desc_4916,Hitting an enemy up 10% weapon DMG for 2s (Up to +150%).,On Hit: +10% Weapon Damage for 2s (Stacks 15x up to +150%).
+inscription_desc_4917,"Projectiles +4, Effective Range +80%.",+4 Extra Projectiles and +80% Range.
+inscription_desc_4918,+200% Effective Range; +1 Piercing. +100% Shot Speed.,"+200% Range, +1 Projectile Pierce, +100% Projectile Speed."
+inscription_desc_4919,+20% Lucky Shot Chance. +1.0x CritX and +30% Lucky Shot Chance when fully charged.,+20% Lucky Shot Chance; When Charged: +1.0x CritX Multiplier and +30% Lucky Shot Chance.
+inscription_desc_4920,"When firing at enemy within 5m, Lucky Shot Chance +80%.",On Hit within 5m: +80% Lucky Shot Chance.
+inscription_desc_4921,+50% total DMG on a direct hit.,On Direct Hit: +50% Total Weapon Damage.
+inscription_desc_4922,Weapon DMG bonus for hitting the same target +100%.,+100% Weapon Damage Against Same Target.
+inscription_desc_4923,Increase total DMG by 50% for every bounce the projectile made. (Max+100%).,On Bounce: +50% Total Weapon Damage (Stack 2x up to +100%).
+inscription_desc_4924,"For every enemy hit, increase total DMG Dealt by 25% (Up to +200%) to current attack.",On Each Grenade Hit: +25% to the Grenade's Total Weapon Damage Dealt (Stacks 8x up to +200%).
+inscription_desc_4925,+100% Total DMG to enemies pulled into the gravity orb's center,+100% Total Weapon Damage against Enemies in the center of the Gravity Orb.
+inscription_desc_4926,+25% Lucky Shot Chance for each projectile detonated at the same time.,On Detonate: +25% Lucky Shot Chance for each Projectile Detonated.
+inscription_desc_4927,+3m AoE Range. Enemies inflicted get hit once again at 50% usual DMG.,+3m Blast Radius. On Hit: Enemies are hit again for 50% of the Shot's Damage.
+inscription_desc_4928,Grants an additional beam that homes in on another enemy at 50% usual DMG.,Fires a second beam that targets another enemy for 50% Total Weapon Damage.
+inscription_desc_4929,Elemental effect chance +100%. Increase total weapon DMG by 50% against enemies affected by Burning effect.,+100% Elemental Debuff Chance. +50% Total Weapon Damage against Burning Enemies.
+inscription_desc_4930,+100% Weapon DMG for each enemy the ammo pierces and an additional damage is applied to all enemies it has passed through.,On Pierce: +100% Weapon Damage to all Enemies the Shot Pierced.
+inscription_desc_4931,"After hitting an enemy with both bullets, next shot +1.5x CritX .",When Enemy is Hit Twice by One Shot: Next Shot gains +1.5x CritX Multiplier.
+inscription_desc_4932,"+30% weapon DMG and RoF, -50% Charge Time with scope on.","While Scoped: +30% Weapon Damage, +30% Rate of Fire, and -50% Charge Time."
+inscription_desc_4933,"+30% Weapon DMG, +1.0x CritX, and shots do not consume ammo within 2s while using ADS.","On Scope: +30% Weapon Damage, +1.0x CritX Multiplier, and No Ammo Cost for 2s."
+inscription_desc_4934,"+75% Lucky Shot Chance for each 0.5s, up to 150%",While Charging: +75% Lucky Shot Chance for each 0.5s (Stacks 2x up to 150%).
+inscription_desc_4935,"RoF +50%, Projectile speed +50%, Lucky Shot Chance +50%","+50% Rate of Fire, +50% Projectile Speed, and +50% Lucky Shot Chance."
+inscription_desc_4936,+100% Lucky Shot Chance per ricochet.,On Bounce: +100% Lucky Shot Chance.
+inscription_desc_4937,Deals extra DMG when the projectile goes through the enemy. Weapon RoF -30%.,On Pierce: Add damage equal to 2x the pierced Enemy's Damage Taken; but -30% Rate of Fire.
 talent_name_2025,Twin Gunner,Twin Gunner
 talent_name_2026|talent_name_5401,Ember Eruption,Ember Eruption
 talent_name_2028|state_name_32032|suit_item_15021_1|suit_item_15052_5|talent_name_5402|state_name_32047|seasonsuit_item_15021_1|seasonsuit_item_15052_5,Sustained Fire,Sustained Fire
