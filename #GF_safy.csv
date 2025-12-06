@@ -168,9 +168,9 @@ talent_desc_2037_3,"Explosion AoE for grenades and explosives weapon +6m, and ex
 talent_desc_2038_1,Explosive Grenade Base DMG +100%; there is a 30% chance of not consuming a grenade,+100% Grenade Base Damage; 30% chance to throw a free Grenade
 talent_desc_2038_2,Explosive Grenade Base DMG +150%; there is a 45% chance of not consuming a grenade,+150% Grenade Base Damage; 45% chance to throw a free Grenade
 talent_desc_2038_3,"Explosive Grenade Base DMG +200%; there is a 60% chance of not consuming a grenade, and gain one grenade every 10s",+200% Grenade Base Damage; 60% chance to throw a free Grenade; Gain one Grenade every 10s
-talent_desc_2039_1,+20% explosion DMG; +5% DMG dealt for each enemy within the explosion range,+20% Explosion Damage; +5% Damage Dealt for each Enemy caught in an Explosion
-talent_desc_2039_2,+40% explosion DMG; +7% DMG dealt for each enemy within the explosion range,+40% Explosion Damage; +7% Damage Dealt for each Enemy caught in an Explosion
-talent_desc_2039_3,+60% explosion DMG; +9% DMG dealt and +9% chance to deal double DMG for each enemy within the explosion range,+60% Explosion Damage; +9% Damage Dealt and +9% chance to double Damage for each Enemy caught in an Explosion.
+talent_desc_2039_1,+20% explosion DMG; +5% DMG dealt for each enemy within the explosion range,+20% Explosion Damage; +5% Damage Dealt for each Enemy caught in the Blast Radius.
+talent_desc_2039_2,+40% explosion DMG; +7% DMG dealt for each enemy within the explosion range,+40% Explosion Damage; +7% Damage Dealt for each Enemy caught in the Blast Radius
+talent_desc_2039_3,+60% explosion DMG; +9% DMG dealt and +9% chance to deal double DMG for each enemy within the explosion range,+60% Explosion Damage; +9% Damage Dealt and +9% chance to double Damage for each Enemy caught in the Blast Radius.
 talent_desc_2041_1,"During Dual-Wielding, gain +3% Weapon DMG and +1% lucky shot chance every 0.5s with continuous firing (up to 20 stacks). \nLose 5 stacks every 0.5s when not firing.",During Dual-Wield: Every 0.5s of constant Firing grants +3% Weapon Damage and +1% Lucky Shot Chance (Stacks 20x up to 60% Weapon Damage and 20% Lucky Shot Chance). \nLose 5 stacks every 0.5s without firing.
 talent_desc_2042_1|talent_desc_5405_1,"-20% Reload Time, +30% Weapon DMG within 4s after reloading",-20% Reload Time; On Reload: +30% Weapon Damage for 4s.
 talent_desc_2042_2|talent_desc_5405_2,"-35% Reload Time, +60% Weapon DMG within 5s after reloading",-35% Reload Time: On Reload: +60% Weapon Damage for 5s.
@@ -179,29 +179,29 @@ talent_desc_2043_1,Increase 30% Total DMG if grenades or explosive weapons deal 
 talent_desc_2043_2,Increase 45% Total DMG if grenades or explosive weapons deal DMG to only one enemy,When a Grenade or Explosive Weapon only hits one Enemy: +45% Total Explosive Damage.
 talent_desc_2043_3,Increase 60% Total DMG if grenades or explosive weapons deal DMG to 3 enemies or fewer,When a Grenade or Explosive Weapon only hits three Enemies or less: +60% Total Explosive Damage.
 talent_desc_2044_1,Toss 2 grenades instead of 1 with no additional consumption.,Throw 2 Grenades instead of 1.
-talent_desc_2102_1,Energy Orb freezes enemies for 2 more seconds.,Energy Orb freezes enemies for 2 more seconds.
-talent_desc_2102_2,Energy Orb freezes enemies for 4 more seconds.,Energy Orb freezes enemies for 4 more seconds.
-talent_desc_2102_3,Energy Orb freezes enemies for 6 more seconds with -30% CD.,Energy Orb freezes enemies for 6 more seconds with -30% CD.
-talent_desc_2103_1,"Explosion radius for Energy Orb is increased by 2m, freeze effect and DMG will bypass barriers.","Explosion radius for Energy Orb is increased by 2m, freeze effect and DMG will bypass barriers."
-talent_desc_2103_2,"Explosion radius for Energy Orb is increased by 4m, freeze effect and DMG will bypass barriers.","Explosion radius for Energy Orb is increased by 4m, freeze effect and DMG will bypass barriers."
-talent_desc_2103_3,"Explosion radius for Energy Orb is increased by 6m, freeze effect and DMG will bypass barriers and DMG is increased by 50% for each target hit.","Explosion radius for Energy Orb is increased by 6m, freeze effect and DMG will bypass barriers and DMG is increased by 50% for each target hit."
-talent_desc_2104_1,Energy Orb gains 1 more charge.,Energy Orb gains 1 more charge.
-talent_desc_2104_2,Energy Orb gains 2 more charges.,Energy Orb gains 2 more charges.
-talent_desc_2104_3,Energy Orb gains 5 more charges.,Energy Orb gains 5 more charges.
-talent_desc_2105_1,Energy Orb deals +200% damage and has a 50% chance to explode twice.,Energy Orb deals +200% damage and has a 50% chance to explode twice.
-talent_desc_2205_2,Recover 100% of your Armor after hitting an enemy with Leap or 25% if you do not hit any targets,Recover 100% of your Armor after hitting an enemy with Leap or 25% if you do not hit any targets
-talent_desc_2106_1,"After casting Energy Orb, +300% weapon DMG on the next hit and deal 50% DMG to enemies adjacent to initial target.","After casting Energy Orb, +300% weapon DMG on the next hit and deal 50% DMG to enemies adjacent to initial target."
-talent_desc_2106_2,"After casting Energy Orb, +400% weapon DMG on the next hit and deal 75% DMG to enemies adjacent to initial target.","After casting Energy Orb, +400% weapon DMG on the next hit and deal 75% DMG to enemies adjacent to initial target."
-talent_desc_2106_3,"After casting Energy Orb, +500% weapon DMG on the next hit and deal 100% DMG to enemies adjacent to initial target.","After casting Energy Orb, +500% weapon DMG on the next hit and deal 100% DMG to enemies adjacent to initial target."
-talent_desc_2109_1|talent_desc_5406_1,"After killing an enemy affected by any Elemental Effect, +40% RoF for 6s.","After killing an enemy affected by any Elemental Effect, +40% RoF for 6s."
-talent_desc_2109_2|talent_desc_5406_2,"After killing an enemy affected by any Elemental Effect, +50% RoF for 6s.","After killing an enemy affected by any Elemental Effect, +50% RoF for 6s."
-talent_desc_2109_3|talent_desc_5406_3,"After hitting an enemy affected by any Elemental Effect, +60% RoF for 6s.","After hitting an enemy affected by any Elemental Effect, +60% RoF for 6s."
-talent_desc_2111_1|talent_desc_5407_1,+30% DMG to enemies affected by any Elemental Effect.,+30% DMG to enemies affected by any Elemental Effect.
-talent_desc_2111_2|talent_desc_5407_2,+60% DMG to enemies affected by any Elemental Effect.,+60% DMG to enemies affected by any Elemental Effect.
-talent_desc_2111_3|talent_desc_5407_3,+120% DMG to enemies affected by any Elemental Effect.,+120% DMG to enemies affected by any Elemental Effect.
-talent_desc_2113_1,Smoke Grenade capacity +4.,Smoke Grenade capacity +4.
-talent_desc_2113_2,Smoke Grenade capacity +8 .,Smoke Grenade capacity +8 .
-talent_desc_2113_3,"Smoke Grenade capacity +12, recover 1 grenade for every 2 grenades used","Smoke Grenade capacity +12, recover 1 grenade for every 2 grenades used"
+talent_desc_2102_1,Energy Orb freezes enemies for 2 more seconds.,+2 seconds Energy Orb Freeze Duration.
+talent_desc_2102_2,Energy Orb freezes enemies for 4 more seconds.,+4 seconds Energy Orb Freeze Duration.
+talent_desc_2102_3,Energy Orb freezes enemies for 6 more seconds with -30% CD.,+6 seconds Energy Orb Freeze Duration; -30% Energy Orb Cooldown.
+talent_desc_2103_1,"Explosion radius for Energy Orb is increased by 2m, freeze effect and DMG will bypass barriers.",+2m Energy Orb Blast Radius; Energy Orb Freeze and Damage ignores barriers.
+talent_desc_2103_2,"Explosion radius for Energy Orb is increased by 4m, freeze effect and DMG will bypass barriers.",+4m Energy Orb Blast Radius; Energy Orb Freeze and Damage ignores barriers.
+talent_desc_2103_3,"Explosion radius for Energy Orb is increased by 6m, freeze effect and DMG will bypass barriers and DMG is increased by 50% for each target hit.",+6m Energy Orb Blast Radius; Energy Orb Freeze and Damage ignores barriers; +50% Energy Orb Damage for each Enemy caught in the Blast Radius.
+talent_desc_2104_1,Energy Orb gains 1 more charge.,+1 Energy Orb charge.
+talent_desc_2104_2,Energy Orb gains 2 more charges.,+2 Energy Orb charges.
+talent_desc_2104_3,Energy Orb gains 5 more charges.,+5 Energy Orb charges.
+talent_desc_2105_1,Energy Orb deals +200% damage and has a 50% chance to explode twice.,+200% Energy Orb Damage; 50% chance for Energy Orb to explode twice.
+talent_desc_2205_2,Recover 100% of your Armor after hitting an enemy with Leap or 25% if you do not hit any targets,On Leap Hit: Heal 100% Armor; Otherwise: Heal 25% Armor  
+talent_desc_2106_1,"After casting Energy Orb, +300% weapon DMG on the next hit and deal 50% DMG to enemies adjacent to initial target.",After Energy Orb: Next hit deals +300% Weapon Damage to target and 50% Weapon Damage to near by enemies.
+talent_desc_2106_2,"After casting Energy Orb, +400% weapon DMG on the next hit and deal 75% DMG to enemies adjacent to initial target.",After Energy Orb: Next hit deals +400% Weapon Damage to target and 75% Weapon Damage to near by enemies.
+talent_desc_2106_3,"After casting Energy Orb, +500% weapon DMG on the next hit and deal 100% DMG to enemies adjacent to initial target.",After Energy Orb: Next hit deals +500% Weapon Damage to target and 100% Weapon Damage to near by enemies.
+talent_desc_2109_1|talent_desc_5406_1,"After killing an enemy affected by any Elemental Effect, +40% RoF for 6s.","When an Enemy with an Elemental Debuff is killed, +40% Rate of Fire for 6s."
+talent_desc_2109_2|talent_desc_5406_2,"After killing an enemy affected by any Elemental Effect, +50% RoF for 6s.","When an Enemy with an Elemental Debuff is killed, +50% Rate of Fire for 6s."
+talent_desc_2109_3|talent_desc_5406_3,"After hitting an enemy affected by any Elemental Effect, +60% RoF for 6s.","When an Enemy with an Elemental Debuff is killed, +60% Rate of Fire for 6s."
+talent_desc_2111_1|talent_desc_5407_1,+30% DMG to enemies affected by any Elemental Effect.,+30% Damage against Enemies with an Elemental Debuff.
+talent_desc_2111_2|talent_desc_5407_2,+60% DMG to enemies affected by any Elemental Effect.,+60% Damage against Enemies with an Elemental Debuff.
+talent_desc_2111_3|talent_desc_5407_3,+120% DMG to enemies affected by any Elemental Effect.,+120% Damage against Enemies with an Elemental Debuff.
+talent_desc_2113_1,Smoke Grenade capacity +4.,+4 Smoke Grenade Capacity.
+talent_desc_2113_2,Smoke Grenade capacity +8 .,+8 Smoke Grenade Capacity.
+talent_desc_2113_3,"Smoke Grenade capacity +12, recover 1 grenade for every 2 grenades used","+12 Smoke Grenade Capacity; When 2 Smoke Grenades are used, Recover 1 Smoke Grenade."
 talent_desc_2116_1,Enemies affected by your grenades will deal -40% DMG and take +20% DMG for 6s,Enemies affected by your grenades will deal -40% DMG and take +20% DMG for 6s
 talent_desc_2116_2,Enemies affected by your grenades will deal -50% DMG and take +40% DMG for 6s,Enemies affected by your grenades will deal -50% DMG and take +40% DMG for 6s
 talent_desc_2116_3,Enemies affected by your grenades will deal -60% DMG and take +60% DMG for 20s,Enemies affected by your grenades will deal -60% DMG and take +60% DMG for 20s
