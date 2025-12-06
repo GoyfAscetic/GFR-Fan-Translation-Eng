@@ -35,32 +35,32 @@ inscription_desc_4843,+150% Lucky Shot chance for next two shots after 3 consecu
 inscription_desc_4845,"Explosion AoE +2m, Lucky Shot Chance +15%.",+2m Blast Radius and +15% Lucky Shot Chance.
 inscription_desc_4846|state_desc_32050_1|talent_briefdesc_2035_1|inscription_desc_13038|talent_briefdesc_3315_1|state_desc_32812_1|talent_briefdesc_5428_1|state_desc_33774_1,Lucky Shot Chance +20%,+20% Lucky Shot Chance
 inscription_desc_4847,"Lucky Shot Chance +50%, Stability -50%.",+50% Lucky Shot Chance but -50% Stability.
-inscription_desc_4848,+20% chance to gain one more projectile.,Each Shot: +20% chance to shoot an extra Projectile.
-inscription_desc_4849,"Projectiles +1, Consumption +100%",+1 Projectiles but +100% Consumption
-inscription_desc_4851,"When the magazine is more than 50% full, RoF +50%, and +20% chance to gain one more projectile.",On Magazine over 50%: +50% Rate of Fire and +20% chance to shoot an extra Projectile.
-inscription_desc_4852,-55% Reload Time when ammo in the magazine is less than 50%.,On Magazine under 50%: -55% Reload Time.
+inscription_desc_4848,+20% chance to gain one more projectile.,+20% Extra Projectile Chance.
+inscription_desc_4849,"Projectiles +1, Consumption +100%",+1 Extra Projectile but +100% Consumption
+inscription_desc_4851,"When the magazine is more than 50% full, RoF +50%, and +20% chance to gain one more projectile.",While Over 50% Magazine: +50% Rate of Fire and +20% Extra Projectile Chance.
+inscription_desc_4852,-55% Reload Time when ammo in the magazine is less than 50%.,While Under 50% Magazine: -55% Reload Time.
 inscription_desc_4853,"When using the scope +150% weapon stability, otherwise +60% Accuracy.",While Scoped: +150% Stability; Otherwise: +60% Accuracy.
 inscription_desc_4856,+50% RoF for 5s after killing an enemy.,On Kill: +50% Rate of Fire for 5s.
 inscription_desc_4857,"-20% Explosion AoE, +40% RoF and -40% Reload Time","+40% Rate of Fire, -40% Reload Time, but -20% Blast Radius"
-inscription_desc_4858,"+10% Lucky Shot Chance for every 10% ammo consumed in the total magazine capacity(Up to 100%, resets on reload or weapon switch).",On 10% Magazine used: +10% Lucky Shot Chance (Max 100%) On Reload or Switch: Reset Bonus.
-inscription_desc_4859,"When reloading right after defeating an enemy, -50% Reload Time and retain the remaining ammo as additional magazine capacity. The more remaining ammo, the higher the base weapon damage.",Reload On Kill: -50% Reload Time and add unused Ammo to next Magazine and Base Weapon Damage.
+inscription_desc_4858,"+10% Lucky Shot Chance for every 10% ammo consumed in the total magazine capacity(Up to 100%, resets on reload or weapon switch).",Each 10% Magazine used: +10% Lucky Shot Chance (Max 100%); On Reload or Switch: Reset Bonus.
+inscription_desc_4859,"When reloading right after defeating an enemy, -50% Reload Time and retain the remaining ammo as additional magazine capacity. The more remaining ammo, the higher the base weapon damage.",Reload On Kill: -50% Reload Time then add unused Ammo to next Magazine and Base Weapon Damage.
 inscription_desc_4860,"After waiting for 1s while scoped, CritX +2.0x for the next shot.",When Scoped for 1s: +2.0x CritX for the next shot.
 inscription_desc_4861,Killing an enemy with a critical hit deals the weapon's damage to enemies within 10m.,On Crit Kill: The shot explodes damaging enemies within 10m.
 inscription_desc_4862,+1.0x CritX for next shot and drops ammo for current weapon when defeating an enemy with crit hit.,On Crit Kill: +1.0x CritX Multiplier for next shot and drops this weapon's Ammo.
 inscription_desc_4864,Return ammo to the magazine on miss.,On Miss: Return Ammo to Magazine.
-inscription_desc_4865,Projectile +0.2 for every enemy killed (resets after reload).,On Kill until Reload: All shots gain +20% chance to fire an extra Projectile. (Max +300% or +3 Projectiles).
+inscription_desc_4865,Projectile +0.2 for every enemy killed (resets after reload).,"On Kill: +20% Extra Projectile Chance (Stacks 10x, Every 5 stacks, add 1 Extra Projectile); On Reload or Swap: Bonus Resets."
 inscription_desc_4866,"When triggering Elemental Effect, spread it to all enemies within 8m.",On Elemental Debuff: Spread to all enemies within 8m.
 inscription_desc_4867,"+100% Effective Range, +100% Accuracy",+100% Range and +100% Accuracy
 inscription_desc_4868,"+100% Effective Range, +100% Stability",+100% Range and +100% Stability
 inscription_desc_4869,CritX +0.8x for 1.5 s after using the scope.,On Scope: CritX +0.8x for 1.5s.
 inscription_desc_4900,Grants +0.5x CritX and guarantees crit hits for a short time when all three shots deal crit hits.,On Full-Burst Crit: Gain Guaranteed Crits and +0.5x CritX Multiplier for a short time.
 inscription_desc_4901,Increase total DMG by 15% for every ammo consumed by using the Weapon Skill.,On Weapon Skill: +15% Total DMG for each Ammo used.
-inscription_desc_4902,"+0.4x CritX for each enemy defeated with a mark, up to 4x. If the mark misses an enemy, -0.2x bonus CritX",On Marked Kill: +0.4x CritX Multipler (Max 4x); On Mark Miss: -0.2x bonus CritX Multiplier
-inscription_desc_4903,Increases the radius of the forcefield sphere. +50% Lucky Shot Chance to projectiles passing through the sphere.,Bigger Orbfield and Projectiles passing through it gain +50% Lucky Shot Chance.
-inscription_desc_4904,RoF +50%. Accuracy and Stability +100%.,"+50% Rate of Fire, +100% Accuracy, +100% and Stability"
-inscription_desc_4905,Increase total DMG by 2% for each ammo in the magazine.,+2% Total DMG by 2% for each ammo in the magazine.
+inscription_desc_4902,"+0.4x CritX for each enemy defeated with a mark, up to 4x. If the mark misses an enemy, -0.2x bonus CritX",On Marked Kill: +0.4x CritX Multiplier (Max 4.0x); On Mark Miss: -0.2x bonus CritX Multiplier
+inscription_desc_4903,Increases the radius of the forcefield sphere. +50% Lucky Shot Chance to projectiles passing through the sphere.,Increases Orbfield size; Projectiles passing through gain +50% Lucky Shot Chance.
+inscription_desc_4904,RoF +50%. Accuracy and Stability +100%.,"+50% Rate of Fire, +100% Accuracy, and +100% Stability"
+inscription_desc_4905,Increase total DMG by 2% for each ammo in the magazine.,+2% Total DMG for each Ammo in the Magazine.
 inscription_desc_4907,Reloading halves the crit buff stacks.,On Reload: Save half of the Crit Buff stacks.
-inscription_desc_4908,Every stack of the buff adds additional 1% Lucky Shot Chance and 5% Stability.,Each Crit Buff stack also gives +1% Lucky Shot Chance and +5% Stability.
+inscription_desc_4908,Every stack of the buff adds additional 1% Lucky Shot Chance and 5% Stability.,Each Crit Buff stack grants +1% Lucky Shot Chance and +5% Stability.
 inscription_desc_4909,+55% chance to gain one more projectile.,+55% chance to shoot an extra Projectile.
 inscription_desc_4911,The initial split is now 5 bullets.,The initial split is now 5 bullets.
 inscription_desc_4912,Increase total DMG by 30% for every time the shot splits.,Increase total DMG by 30% for every time the shot splits.
