@@ -1,9 +1,8 @@
-﻿Language,2,
-,,
+Language,2,
 NormalText,,
 inscription_desc_4801|s6diceability_desc_51301_1,CritX +0.4x,+0.4x CritX Multiplier.
 inscription_desc_4802,Magazine Capacity +60%.,+60% Magazine Capacity.
-inscription_desc_4803,RoF +25%.,+25% Rate of Fire.
+inscription_desc_4803,RoF +25%.,+25% Fire Rate.
 inscription_desc_4804,"Accuracy +80%, Stability +80%",+80% Accuracy and +80% Stability.
 inscription_desc_4806,-40% Reload Time,-40% Reload Time.
 inscription_desc_4807,+50% total Weapon DMG against enemies in Burning Effect.,+50% Total Weapon Damage against Burning Enemies.
@@ -16,9 +15,9 @@ inscription_desc_4818,+80% Weapon DMG for the 2 shots after reloading.,On Reload
 inscription_desc_4819,"+100% Magazine Capacity, +30% Reload Time",+100% Magazine Capacity but +30% Reload Time.
 inscription_desc_4820,+65% total weapon DMG against enemies in Elemental Effect.,+65% Total Weapon Damage against Enemies with an Elemental Debuff.
 inscription_desc_4821,+100% Elemental Effect Chance of this weapon.,+100% Elemental Debuff Chance.
-inscription_desc_4822,50% chance to cause an explosion that deals Corrosion DMG when killing an enemy.,On Kill: 50% chance to trigger a Corrosive Explosion.
+inscription_desc_4822,50% chance to cause an explosion that deals Corrosion DMG when killing an enemy.,On Kill: 50% Corrosive Explosion Chance.
 inscription_desc_4824,"+40% base weapon DMG, -50% Accuracy.",+40% Base Weapon Damage but -50% Accuracy.
-inscription_desc_4825,"CritX +1.2x, RoF -10%.",+1.2x CritX Multiplier but -10% Rate of Fire.
+inscription_desc_4825,"CritX +1.2x, RoF -10%.",+1.2x CritX Multiplier but -10% Fire Rate.
 inscription_desc_4827,+40% total weapon DMG against elites and bosses.,+40% Total Weapon Damage against Elites and Bosses.
 inscription_desc_4828,+50% Elemental Effect Chance on Crit Hit,On Crit: +50% Elemental Debuff Chance.
 inscription_desc_4829,50% chance to fill magazine instantly when killing an enemy,On Kill: 50% chance to Refill Magazine.
@@ -26,22 +25,22 @@ inscription_desc_4830,+3.0x CritX to the first shot after reload,On Reload: Next
 inscription_desc_4832,DMG type converts into Fire DMG.,Converts Weapon Damage to Fire.
 inscription_desc_4833,DMG type converts into Corrosion DMG.,Converts Weapon Damage to Corrosion.
 inscription_desc_4834,DMG type converts into Lightning DMG.,Converts Weapon Damage to Lightning.
-inscription_desc_4835,"+10% weapon DMG upon hitting an enemy. (Up to +200%, resets on a miss.)",On Hit: Gain +10% Weapon Damage (Stacks 20x up to +200%); On Miss: Bonus Resets.
+inscription_desc_4835,"+10% weapon DMG upon hitting an enemy. (Up to +200%, resets on a miss.)",On Hit: Gain +10% Weapon Damage (Stacks 20x up to +200%); On Miss: Reset Bonus Weapon Damage.
 inscription_desc_4836,Weapon auto-reloaded when unequipped.,On Unequip: Reload Weapon.
 inscription_desc_4838,(Gemini) Weapon 1&2 combine their CritX bonus but -50% Stability,Gemini: Both Weapons combine their CritX Multipliers but -50% Stability.
 inscription_desc_4839,(Gemini) Weapon 1 & 2 share their elemental advantages and there's a chance to apply the elemental effect from the other weapon.,Gemini: Both Weapons gain each other's Elemental Debuff Chance & Damage Type.
-inscription_desc_4842,"(Gemini) Weapon 1&2 magazine capacity become the sum of both weapon's magazine capacity, and RoF +25%.",Gemini: Both Weapons combine their Magazine Capacities and gain +25% Rate of Fire.
+inscription_desc_4842,"(Gemini) Weapon 1&2 magazine capacity become the sum of both weapon's magazine capacity, and RoF +25%.",Gemini: Both Weapons combine their Magazine Capacities and gain +25% Fire Rate.
 inscription_desc_4843,+150% Lucky Shot chance for next two shots after 3 consecutive critical hits.,On 3rd Straight Crit: Next 2 Shots gain +150% Lucky Shot Chance.
 inscription_desc_4845,"Explosion AoE +2m, Lucky Shot Chance +15%.",+2m Blast Radius and +15% Lucky Shot Chance.
 inscription_desc_4846|state_desc_32050_1|talent_briefdesc_2035_1|inscription_desc_13038|talent_briefdesc_3315_1|state_desc_32812_1|talent_briefdesc_5428_1|state_desc_33774_1,Lucky Shot Chance +20%,+20% Lucky Shot Chance.
 inscription_desc_4847,"Lucky Shot Chance +50%, Stability -50%.",+50% Lucky Shot Chance but -50% Stability.
 inscription_desc_4848,+20% chance to gain one more projectile.,+20% Extra Projectile Chance.
 inscription_desc_4849,"Projectiles +1, Consumption +100%",+1 Extra Projectile but +100% Ammo Cost.
-inscription_desc_4851,"When the magazine is more than 50% full, RoF +50%, and +20% chance to gain one more projectile.",While Over 50% Magazine: +50% Rate of Fire and +20% Extra Projectile Chance.
+inscription_desc_4851,"When the magazine is more than 50% full, RoF +50%, and +20% chance to gain one more projectile.",While Over 50% Magazine: +50% Fire Rate and +20% Extra Projectile Chance.
 inscription_desc_4852,-55% Reload Time when ammo in the magazine is less than 50%.,While Under 50% Magazine: -55% Reload Time.
 inscription_desc_4853,"When using the scope +150% weapon stability, otherwise +60% Accuracy.",While Scoped: +150% Stability; Otherwise: +60% Accuracy.
-inscription_desc_4856,+50% RoF for 5s after killing an enemy.,On Kill: +50% Rate of Fire for 5s.
-inscription_desc_4857,"-20% Explosion AoE, +40% RoF and -40% Reload Time","+40% Rate of Fire, -40% Reload Time, but -20% Blast Radius."
+inscription_desc_4856,+50% RoF for 5s after killing an enemy.,On Kill: +50% Fire Rate for 5s.
+inscription_desc_4857,"-20% Explosion AoE, +40% RoF and -40% Reload Time","+40% Fire Rate, -40% Reload Time, but -20% Blast Radius."
 inscription_desc_4858,"+10% Lucky Shot Chance for every 10% ammo consumed in the total magazine capacity(Up to 100%, resets on reload or weapon switch).",On 10% Magazine used: +10% Lucky Shot Chance (Stacks 10x up to 100%); On Reload or Swap: Reset Bonus.
 inscription_desc_4859,"When reloading right after defeating an enemy, -50% Reload Time and retain the remaining ammo as additional magazine capacity. The more remaining ammo, the higher the base weapon damage.",On Kill: Reloading soon after is 50% faster; the next Magazine gains bonus Capacity and Base Weapon Damage equal to the unused Ammo.
 inscription_desc_4860,"After waiting for 1s while scoped, CritX +2.0x for the next shot.",When Scoped for 1s: +2.0x CritX Multiplier for the next shot.
@@ -57,7 +56,7 @@ inscription_desc_4900,Grants +0.5x CritX and guarantees crit hits for a short ti
 inscription_desc_4901,Increase total DMG by 15% for every ammo consumed by using the Weapon Skill.,On Weapon Skill: +15% Total Weapon Damage for each Ammo used.
 inscription_desc_4902,"+0.4x CritX for each enemy defeated with a mark, up to 4x. If the mark misses an enemy, -0.2x bonus CritX",On Marked Kill: +0.4x CritX Multiplier (Max 4.0x); On Mark Miss: -0.2x bonus CritX Multiplier
 inscription_desc_4903,Increases the radius of the forcefield sphere. +50% Lucky Shot Chance to projectiles passing through the sphere.,Increases Orbfield size; Projectiles passing through gain +50% Lucky Shot Chance.
-inscription_desc_4904,RoF +50%. Accuracy and Stability +100%.,"+50% Rate of Fire, +100% Accuracy, and +100% Stability."
+inscription_desc_4904,RoF +50%. Accuracy and Stability +100%.,"+50% Fire Rate, +100% Accuracy, and +100% Stability."
 inscription_desc_4905,Increase total DMG by 2% for each ammo in the magazine.,+2% Total Weapon Damage for each Ammo in the Magazine.
 inscription_desc_4907,Reloading halves the crit buff stacks.,On Reload: Save half of the Crit Buff stacks.
 inscription_desc_4908,Every stack of the buff adds additional 1% Lucky Shot Chance and 5% Stability.,Each Crit Buff stack grants +1% Lucky Shot Chance and +5% Stability.
@@ -77,16 +76,16 @@ inscription_desc_4924,"For every enemy hit, increase total DMG Dealt by 25% (Up 
 inscription_desc_4925,+100% Total DMG to enemies pulled into the gravity orb's center,+100% Total Weapon Damage against Enemies in the center of the Gravity Orb.
 inscription_desc_4926,+25% Lucky Shot Chance for each projectile detonated at the same time.,On Detonate: +25% Lucky Shot Chance for each Projectile Detonated.
 inscription_desc_4927,+3m AoE Range. Enemies inflicted get hit once again at 50% usual DMG.,+3m Blast Radius. On Hit: Enemies are hit again for 50% of the Shot's Damage.
-inscription_desc_4928,Grants an additional beam that homes in on another enemy at 50% usual DMG.,Hit another Enemy with an extra beam dealing 50% Total Weapon Damage.
+inscription_desc_4928,Grants an additional beam that homes in on another enemy at 50% usual DMG.,"Shoot a 2nd beam, but -50% Total Weapon Damage for the 2nd Beam."
 inscription_desc_4929,Elemental effect chance +100%. Increase total weapon DMG by 50% against enemies affected by Burning effect.,+100% Elemental Debuff Chance. +50% Total Weapon Damage against Burning Enemies.
 inscription_desc_4930,+100% Weapon DMG for each enemy the ammo pierces and an additional damage is applied to all enemies it has passed through.,On Pierce: +100% Weapon Damage to all Enemies the Shot Pierced.
-inscription_desc_4931,"After hitting an enemy with both bullets, next shot +1.5x CritX .",When Enemy is Hit Twice by One Shot: Next Shot gains +1.5x CritX Multiplier.
-inscription_desc_4932,"+30% weapon DMG and RoF, -50% Charge Time with scope on.","While Scoped: +30% Weapon Damage, +30% Rate of Fire, and -50% Charge Time."
+inscription_desc_4931,"After hitting an enemy with both bullets, next shot +1.5x CritX .",When Enemy is Hit by both Bullets: Next Shot gains +1.5x CritX Multiplier.
+inscription_desc_4932,"+30% weapon DMG and RoF, -50% Charge Time with scope on.","While Scoped: +30% Weapon Damage, +30% Fire Rate, and -50% Charge Time."
 inscription_desc_4933,"+30% Weapon DMG, +1.0x CritX, and shots do not consume ammo within 2s while using ADS.","On Scope: +30% Weapon Damage, +1.0x CritX Multiplier, and No Ammo Cost for 2s."
-inscription_desc_4934,"+75% Lucky Shot Chance for each 0.5s, up to 150%",While Charging: +75% Lucky Shot Chance for each 0.5s (Stacks 2x up to 150%).
-inscription_desc_4935,"RoF +50%, Projectile speed +50%, Lucky Shot Chance +50%","+50% Rate of Fire, +50% Projectile Speed, and +50% Lucky Shot Chance."
+inscription_desc_4934,"+75% Lucky Shot Chance for each 0.5s, up to 150%",+75% Lucky Shot Chance every 0.5s spent Charging (Stacks 2x up to 150%).
+inscription_desc_4935,"RoF +50%, Projectile speed +50%, Lucky Shot Chance +50%","+50% Fire Rate, +50% Projectile Speed, and +50% Lucky Shot Chance."
 inscription_desc_4936,+100% Lucky Shot Chance per ricochet.,On Bounce: +100% Lucky Shot Chance.
-inscription_desc_4937,Deals extra DMG when the projectile goes through the enemy. Weapon RoF -30%.,On Pierce: Shot deals bonus damage equal to 2x the Damage Taken by the pierced Enemy; but -30% Rate of Fire.
+inscription_desc_4937,Deals extra DMG when the projectile goes through the enemy. Weapon RoF -30%.,On Pierce: Shot deals bonus damage equal to 2x the Damage Taken by the pierced Enemy; but -30% Fire Rate.
 talent_name_2025,Twin Gunner,Double Trouble
 talent_name_2026|talent_name_5401,Ember Eruption,Bottom of the Barrel
 talent_name_2028|state_name_32032|suit_item_15021_1|suit_item_15052_5|talent_name_5402|state_name_32047|seasonsuit_item_15021_1|seasonsuit_item_15052_5,Sustained Fire,Domino Demolition
@@ -140,9 +139,9 @@ talent_desc_2026_3|talent_desc_5401_3,"When the remaining ammo in the magazine i
 talent_desc_2028_1|talent_desc_5402_1,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +50% for 6s",On Kill (Or Item Break): +50% Weapon Damage and +50% Explosion Damage for 6s
 talent_desc_2028_2|talent_desc_5402_2,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +75% for 6s",On Kill (Or Item Break): +75% Weapon Damage and +75% Explosion Damage for 6s
 talent_desc_2028_3|talent_desc_5402_3,"After killing an enemy or destroying an item, Weapon DMG and Explosion DMG +100% for 20s",On Kill (Or Item Break): +100% Weapon Damage and +100% Explosion Damage for 20s
-talent_desc_2029_1|talent_desc_5403_1|talent_briefdesc_5403_1,+10% DMG Resistance and recover 1% HP/s for 6s after killing an enemy or destroying an item.,On Kill (Or Item Break): +10% Damage Resistance and Heal 1% HP per second for 6s.
-talent_desc_2029_2|talent_desc_5403_2|talent_briefdesc_5403_2,+15% DMG Resistance and recover 1.5% HP/s for 6s after killing an enemy or destroying an item.,On Kill (Or Item Break): +15% Damage Resistance and Heal 1.5% HP per second for 6s.
-talent_desc_2029_3|talent_desc_5403_3|talent_briefdesc_5403_3,+20% DMG Resistance and recover 2% HP/s for 20s after killing an enemy or destroying an item.,On Kill (Or Item Break): +20% Damage Resistance and Heal 2% HP per second for 20s.
+talent_desc_2029_1|talent_desc_5403_1|talent_briefdesc_5403_1,+10% DMG Resistance and recover 1% HP/s for 6s after killing an enemy or destroying an item.,On Kill (Or Item Break): +10% Damage Resistance and Heal 1% Health per second for 6s.
+talent_desc_2029_2|talent_desc_5403_2|talent_briefdesc_5403_2,+15% DMG Resistance and recover 1.5% HP/s for 6s after killing an enemy or destroying an item.,On Kill (Or Item Break): +15% Damage Resistance and Heal 1.5% Health per second for 6s.
+talent_desc_2029_3|talent_desc_5403_3|talent_briefdesc_5403_3,+20% DMG Resistance and recover 2% HP/s for 20s after killing an enemy or destroying an item.,On Kill (Or Item Break): +20% Damage Resistance and Heal 2% Health per second for 20s.
 talent_desc_2030_1,"+20 Max HP. During dual-wielding, Max HP bonus is doubled",+20 Max HP; During Dual-Wield: Double this Bonus.
 talent_desc_2030_2,"+40 Max HP. During dual-wielding, Max HP bonus is doubled",+40 Max HP; During Dual-Wield: Double this Bonus.
 talent_desc_2030_3,"+60 Max HP. During dual-wielding, Max HP bonus is doubled, and there's a 50% chance of recovering HP equivalent to DMG taken when injured.",+60 Max HP; During Dual-Wield: Double this Bonus and 50% chance to Heal Damage Taken.
@@ -155,7 +154,7 @@ talent_desc_2032_3,"During the Dual-Wield, recover to 50% of Max HP when taking 
 talent_desc_2033_1,+50% duration to dual-wielding,+50% Dual-Wield Duration.
 talent_desc_2033_2,+75% duration to dual-wielding,+75% Dual-Wield Duration.
 talent_desc_2033_3,"Doubled the duration of Dual-wielding. While dual-wielding, every 20 ammo consumed +2s to the duration.",Double Dual-Wield Duration. During Dual-Wield: Consuming 20 ammo extends Dual-Wield by 2s.
-talent_desc_2034_1,"+30% RoF and Accuracy while dual-wielding. When dual-wield ends, -1s next dual-wield cooldown for every 1s of remaining duration.",During Dual-Wield: +30% Rate of Fire and +30% Accuracy. After Dual-Wield: Reduce next Cooldown by 1s for each second of unused duration.
+talent_desc_2034_1,"+30% RoF and Accuracy while dual-wielding. When dual-wield ends, -1s next dual-wield cooldown for every 1s of remaining duration.",During Dual-Wield: +30% Fire Rate and +30% Accuracy. After Dual-Wield: Reduce next Cooldown by 1s for each second of unused duration.
 talent_desc_2035_1,+20% to Lucky Shot Chance while dual-wielding,During Dual-Wield: +20% Lucky Shot Chance.
 talent_desc_2035_2,+30% to Lucky Shot Chance while dual-wielding,During Dual-Wield: +30% Lucky Shot Chance.
 talent_desc_2035_3,"+40% Lucky Shot Chance while dual-wielding. When triggering a crit hit and a lucky shot simultaneously, gain an additional +20% Lucky Shot Chance for 1s.",During Dual-Wield: +40% Lucky Shot Chance. On Crit and Lucky Shot: +20% Lucky Shot Chance for 1s.
@@ -193,9 +192,9 @@ talent_desc_2205_2,Recover 100% of your Armor after hitting an enemy with Leap o
 talent_desc_2106_1,"After casting Energy Orb, +300% weapon DMG on the next hit and deal 50% DMG to enemies adjacent to initial target.",After using Energy Orb: Next hit gains +300% Weapon Damage and explodes for 50% Weapon Damage.
 talent_desc_2106_2,"After casting Energy Orb, +400% weapon DMG on the next hit and deal 75% DMG to enemies adjacent to initial target.",After using Energy Orb: Next hit gains +400% Weapon Damage and explodes for 75% Weapon Damage.
 talent_desc_2106_3,"After casting Energy Orb, +500% weapon DMG on the next hit and deal 100% DMG to enemies adjacent to initial target.",After using Energy Orb: Next hit gains +500% Weapon Damage and explodes for 100% Weapon Damage.
-talent_desc_2109_1|talent_desc_5406_1,"After killing an enemy affected by any Elemental Effect, +40% RoF for 6s.",On Elemental Debuff Kill: +40% Rate of Fire for 6s.
-talent_desc_2109_2|talent_desc_5406_2,"After killing an enemy affected by any Elemental Effect, +50% RoF for 6s.",On Elemental Debuff Kill: +50% Rate of Fire for 6s.
-talent_desc_2109_3|talent_desc_5406_3,"After hitting an enemy affected by any Elemental Effect, +60% RoF for 6s.",On Elemental Debuff Hit: +60% Rate of Fire for 6s.
+talent_desc_2109_1|talent_desc_5406_1,"After killing an enemy affected by any Elemental Effect, +40% RoF for 6s.",On Elemental Debuff Kill: +40% Fire Rate for 6s.
+talent_desc_2109_2|talent_desc_5406_2,"After killing an enemy affected by any Elemental Effect, +50% RoF for 6s.",On Elemental Debuff Kill: +50% Fire Rate for 6s.
+talent_desc_2109_3|talent_desc_5406_3,"After hitting an enemy affected by any Elemental Effect, +60% RoF for 6s.",On Elemental Debuff Hit: +60% Fire Rate for 6s.
 talent_desc_2111_1|talent_desc_5407_1,+30% DMG to enemies affected by any Elemental Effect.,+30% Damage against Enemies with an Elemental Debuff.
 talent_desc_2111_2|talent_desc_5407_2,+60% DMG to enemies affected by any Elemental Effect.,+60% Damage against Enemies with an Elemental Debuff.
 talent_desc_2111_3|talent_desc_5407_3,+120% DMG to enemies affected by any Elemental Effect.,+120% Damage against Enemies with an Elemental Debuff.
@@ -287,30 +286,30 @@ weapon_name_1504,Woodpecker,Woodpecker
 weapon_name_1505,Golden Bow,Golden Bow
 weapon_name_1508,Sting,Sting
 weapon_name_1509,Prism,Prism
-weapon_desc_1002,3-round burst. Third shot auto-crits on hit.,3-round burst. Third shot auto-crits on hit.
-weapon_desc_1003|weapon_desc_1018,"<sprite name=icon_wpskill>Charge Shot. The longer you charge the weapon, the higher DMG the shot will be.","<sprite name=icon_wpskill>Charge Shot. The longer you charge the weapon, the higher DMG the shot will be."
-weapon_desc_1006,<sprite name=icon_wpskill>Launch a mark and shots home in on the mark.,<sprite name=icon_wpskill>Launch a mark and shots home in on the mark.
-weapon_desc_1008,"<sprite name=icon_wpskill>Launches a forcefield sphere. Any projectile going through the sphere grants 50% lucky shot chance, +100% Effective Range of the firing weapon. Bullets speed increased significantly","<sprite name=icon_wpskill>Launches a forcefield sphere. Any projectile going through the sphere grants 50% lucky shot chance, +100% Effective Range of the firing weapon. Bullets speed increased significantly"
-weapon_desc_1010,"The longer the weapon is fired, the higher the RoF will be.","The longer the weapon is fired, the higher the RoF will be."
-weapon_desc_1101,"Replenishes magazine automatically when you stop firing. (The shorter the reload time, the quicker the speed of replenishment.)","Replenishes magazine automatically when you stop firing. (The shorter the reload time, the quicker the speed of replenishment.)"
-weapon_desc_1102,Full-auto submachine gun with high RoF,Full-auto submachine gun with high RoF
-weapon_desc_1104,Increases weapon DMG on every crit hit. (Resets on reload or weapon switch),Increases weapon DMG on every crit hit. (Resets on reload or weapon switch)
-weapon_desc_1105,Increases accuracy gradually when firing. The firing mode can be switched between single-shot and double-shot.,Increases accuracy gradually when firing. The firing mode can be switched between single-shot and double-shot.
-weapon_desc_1201,Projectiles will horizontally split for 2 times.,Projectiles will horizontally split for 2 times.
-weapon_desc_1202|weapon_desc_1810,Basic weapon with unlimited ammo. Level is adjusted to lowest level of all equipped weapons.,Basic weapon with unlimited ammo. Level is adjusted to lowest level of all equipped weapons.
-weapon_desc_1205|weapon_desc_1216,Bullets can cause small-area explosions upon hitting enemies,Bullets can cause small-area explosions upon hitting enemies
-weapon_desc_1209,<sprite name=icon_wpskill>Rapid-fire all remaining ammo in the magazine.,<sprite name=icon_wpskill>Rapid-fire all remaining ammo in the magazine.
+weapon_desc_1002,3-round burst. Third shot auto-crits on hit.,3-Shot Burst; 3rd Shot always Crits.
+weapon_desc_1003|weapon_desc_1018,"<sprite name=icon_wpskill>Charge Shot. The longer you charge the weapon, the higher DMG the shot will be.",<sprite name=icon_wpskill>Hold to Charge a Shot and the Damage scales with Charge Time.
+weapon_desc_1006,<sprite name=icon_wpskill>Launch a mark and shots home in on the mark.,<sprite name=icon_wpskill>Launch a Mark that this Gun’s Shots will Hit.
+weapon_desc_1008,"<sprite name=icon_wpskill>Launches a forcefield sphere. Any projectile going through the sphere grants 50% lucky shot chance, +100% Effective Range of the firing weapon. Bullets speed increased significantly","<sprite name=icon_wpskill>Launches an Orbfield. Shots through Orbfield gain +50% Lucky Shot Chance, +100% Range, and Increased Projectile Speed."
+weapon_desc_1010,"The longer the weapon is fired, the higher the RoF will be.",While Shooting: Increase Fire Rate; On Reload (or Swap): Reset bonus Fire Rate.
+weapon_desc_1101,"Replenishes magazine automatically when you stop firing. (The shorter the reload time, the quicker the speed of replenishment.)","While not Shooting: Reload Magazine over time, but no Manual Reload"
+weapon_desc_1102,Full-auto submachine gun with high RoF,"Fast Firing, Full-Auto Submachine Gun"
+weapon_desc_1104,Increases weapon DMG on every crit hit. (Resets on reload or weapon switch),On Crit: Increase Weapon Damage (Unlimited Stacks); On Reload (or Swap): Reset Weapon Damage Bonus.
+weapon_desc_1105,Increases accuracy gradually when firing. The firing mode can be switched between single-shot and double-shot.,While Shooting: Increase Accuracy. Alt-Fire: Double Fire Rate.
+weapon_desc_1201,Projectiles will horizontally split for 2 times.,Each shot splits twice horizontally.
+weapon_desc_1202|weapon_desc_1810,Basic weapon with unlimited ammo. Level is adjusted to lowest level of all equipped weapons.,This Weapon has Unlimited Ammo and the lowest Level of the other two Weapons.
+weapon_desc_1205|weapon_desc_1216,Bullets can cause small-area explosions upon hitting enemies,On Hit: Bullets Explode
+weapon_desc_1209,<sprite name=icon_wpskill>Rapid-fire all remaining ammo in the magazine.,<sprite name=icon_wpskill>Rapid-fire the rest of the Magazine.
 weapon_desc_1212,<sprite name=icon_wpskill>Fires multiple talismans consecutively.\n<sprite name=icon_wptype>Fire DMG|Corrosion DMG|Lightning DMG,<sprite name=icon_wpskill>Fires multiple talismans consecutively.\n<sprite name=icon_wptype>Fire DMG|Corrosion DMG|Lightning DMG
-weapon_desc_1303,Holding down fire increases ROF and projectiles.,Holding down fire increases ROF and projectiles.
-weapon_desc_1304,"Bullets spread horizontally, and knock close enemies back on hit. If enemies hit any barrier on their way back, they will receive additional DMG.","Bullets spread horizontally, and knock close enemies back on hit. If enemies hit any barrier on their way back, they will receive additional DMG."
-weapon_desc_1305,"Charging a shot increases accuracy; when fully charged, +50% DMG","Charging a shot increases accuracy; when fully charged, +50% DMG"
-weapon_desc_1306|weapon_desc_1315,"Press the fire button to trigger the first shot, and release to trigger the second.","Press the fire button to trigger the first shot, and release to trigger the second."
-weapon_desc_1309,<sprite name=icon_wpskill>Projectiles scatter widely.,<sprite name=icon_wpskill>Projectiles scatter widely.
-weapon_desc_1401,Fire shells that cause large-area explosions.,Fire shells that cause large-area explosions.
-weapon_desc_1402,Shoot a laser that deals increasing DMG on the same target.,Shoot a laser that deals increasing DMG on the same target.
-weapon_desc_1404,Fires bouncing grenades. Causes a small-area explosion on hitting enemies/cover and continues to bounce. DMG of next bounce will be reduced after hitting enemies,Fires bouncing grenades. Causes a small-area explosion on hitting enemies/cover and continues to bounce. DMG of next bounce will be reduced after hitting enemies
-weapon_desc_1408,"Fires a grenade that generates a lava field when it explodes, dealing damage on time to enemies","Fires a grenade that generates a lava field when it explodes, dealing damage on time to enemies"
-weapon_desc_1410,Shoot a Lightning ray that spreads out from one target to another on hit.,Shoot a Lightning ray that spreads out from one target to another on hit.
+weapon_desc_1303,Holding down fire increases ROF and projectiles.,While Shooting: Increase Fire Rate and Projectiles; On Reload (or Swap): Reset all bonuses.
+weapon_desc_1304,"Bullets spread horizontally, and knock close enemies back on hit. If enemies hit any barrier on their way back, they will receive additional DMG.","Shotgun Spread is always a Horizontal Line. On Hit: Knock back nearby enemies, and if they hit a wall, they take extra Damage."
+weapon_desc_1305,"Charging a shot increases accuracy; when fully charged, +50% DMG",While Charging: Increase Accuracy; On Full Charge: +50% Damage
+weapon_desc_1306|weapon_desc_1315,"Press the fire button to trigger the first shot, and release to trigger the second.",Shoots when Pressing and Releasing the Trigger.
+weapon_desc_1309,<sprite name=icon_wpskill>Projectiles scatter widely.,Shoot a single Projectile.\nOn Hit: Scatter Projectiles from the Target.\n<sprite name=icon_wpskill>Shoots Shotgun Blast 
+weapon_desc_1401,Fire shells that cause large-area explosions.,Shoots explosives with a large Blast Radius.
+weapon_desc_1402,Shoot a laser that deals increasing DMG on the same target.,"Shoots a Burning Laser.\nOn Hitting the Same Enemy: +1 Base Weapon Damage;\nOn Miss, Reload, Swap or New Enemy Hit: Reset Bonus   "
+weapon_desc_1404,Fires bouncing grenades. Causes a small-area explosion on hitting enemies/cover and continues to bounce. DMG of next bounce will be reduced after hitting enemies,"Shoots arcing explosives.\nOn Hit: Shot explodes, Damage is reduced, and then Shot bounces again"
+weapon_desc_1408,"Fires a grenade that generates a lava field when it explodes, dealing damage on time to enemies",Shots explode creating a lava pool that deals Fire Damage Over Time
+weapon_desc_1410,Shoot a Lightning ray that spreads out from one target to another on hit.,Shoot a Beam of Lightning.\nOn Hit: Zap nearby Enemies and their Projectiles
 weapon_desc_1411,Fire a ray that auto-locks onto a nearby enemy\n<sprite name=icon_wpskill>Launch a mark. The ray will lock onto the mark.,Fire a ray that auto-locks onto a nearby enemy\n<sprite name=icon_wpskill>Launch a mark. The ray will lock onto the mark.
 weapon_desc_1412,Project flames to burn enemies.,Project flames to burn enemies.
 weapon_desc_1501,Bullets can pierce enemies.,Bullets can pierce enemies.
@@ -585,7 +584,7 @@ commonnotify_desc_7018,Level,Level
 commonnotify_desc_7019,Maxed out,Maxed out
 commonnotify_desc_7020,None,None
 commonnotify_desc_7021,DMG,DMG
-commonnotify_desc_7022,RoF,RoF
+commonnotify_desc_7022,RoF,Fire Rate
 commonnotify_desc_7023,Magazine,Magazine
 commonnotify_desc_7024,Stability,Stability
 commonnotify_desc_7025,Accuracy,Accuracy
@@ -2034,9 +2033,9 @@ roomchallenge_windesc_3001_1057|roomchallenge_windesc_3020_1057|roomchallenge_wi
 roomchallenge_losedesc_3001_1057|roomchallenge_losedesc_3001_1084|roomchallenge_losedesc_3020_1057|roomchallenge_losedesc_3020_1084|roomchallenge_losedesc_3008_1057,Traps will be spawned beneath the hero once in a while,Traps will be spawned beneath the hero once in a while
 inscription_desc_4888,+0.2x CritX on each Crit Hit. (Up to +4.0x and will be reset on a normal hit/miss),+0.2x CritX on each Crit Hit. (Up to +4.0x and will be reset on a normal hit/miss)
 inscription_desc_4889,Increase total Weapon DMG by 15% (Up to 150%) for 6s whenever triggering an elemental effect.,Increase total Weapon DMG by 15% (Up to 150%) for 6s whenever triggering an elemental effect.
-inscription_desc_4890,+10% RoF for 2s on a crit hit. (Up to +100%),+10% RoF for 2s on a crit hit. (Up to +100%)
+inscription_desc_4890,+10% RoF for 2s on a crit hit. (Up to +100%),+10% Fire Rate for 2s on a crit hit. (Up to +100%)
 inscription_desc_4891,+10% Lucky Shot Chance for 3s whenever you hit an enemy (up to 150%).,+10% Lucky Shot Chance for 3s whenever you hit an enemy (up to 150%).
-inscription_desc_4892,Lucky Shot chance +40%，RoF -10%.,Lucky Shot chance +40%，RoF -10%.
+inscription_desc_4892,Lucky Shot chance +40%，RoF -10%.,Lucky Shot chance +40%，Fire Rate -10%.
 inscription_desc_4893,+50% Lucky Shot chance for next shot after killing an enemy.,+50% Lucky Shot chance for next shot after killing an enemy.
 inscription_desc_4894,"+100% projectile speed, +15% Lucky Shot chance","+100% projectile speed, +15% Lucky Shot chance"
 inscription_desc_4895,"When scope is on, continuously increase weapon DMG(up to 100%)","When scope is on, continuously increase weapon DMG(up to 100%)"
@@ -2286,7 +2285,7 @@ state_desc_1138_1,+(n*10%) DMG,+(n*10%) DMG
 state_desc_1139_1|state_desc_1241_1|state_desc_1379_1|state_desc_1430_1,Max HP +(n*1),Max HP +(n*1)
 state_desc_1141_1|state_desc_1484_2,Lucky Shot Chance +50%,Lucky Shot Chance +50%
 state_desc_1142_1|state_desc_1322_1|state_desc_1481_1|state_desc_1696_1,Movement speed +40%,Movement speed +40%
-state_desc_1162_1,"RoF +50%, shooting won't consume ammo","RoF +50%, shooting won't consume ammo"
+state_desc_1162_1,"RoF +50%, shooting won't consume ammo","Fire Rate +50%, shooting won't consume ammo"
 state_desc_1168_1|state_desc_1811_1,+75% weapon damage,+75% weapon damage
 state_desc_1189_1,Refill 15% ammo of the magazine per second.,Refill 15% ammo of the magazine per second.
 state_desc_1190_1|state_desc_1223_1|state_desc_1236_1,+(n*15%) weapon DMG,+(n*15%) weapon DMG
@@ -2313,7 +2312,7 @@ state_desc_32039_1|state_desc_32048_1,+(lvl*30)% weapon DMG,+(lvl*30)% weapon DM
 state_desc_32041_1,"Weapon DMG +(n*3)%, Lucky Shot Chance +(n*1)%","Weapon DMG +(n*3)%, Lucky Shot Chance +(n*1)%"
 state_desc_32045_1,Max HP +(lvl*40),Max HP +(lvl*40)
 state_desc_32045_2,Max HP +120; have 50% chance to recover HP that equals to DMG taken upon being hit.,Max HP +120; have 50% chance to recover HP that equals to DMG taken upon being hit.
-state_desc_32103_1,RoF +(lvl*10%+30%),RoF +(lvl*10%+30%)
+state_desc_32103_1,RoF +(lvl*10%+30%),Fire Rate +(lvl*10%+30%)
 state_desc_32113_1,+(lvl*100%+200%) weapon DMG on next hit and deal (lvl*25%+25%) DMG to enemies adjacent to target,+(lvl*100%+200%) weapon DMG on next hit and deal (lvl*25%+25%) DMG to enemies adjacent to target
 state_desc_32117_1|state_desc_32636_1,Max shield +(lvl*30),Max shield +(lvl*30)
 state_desc_32118_1,"Max shield +90, immunize any elemental effect","Max shield +90, immunize any elemental effect"
